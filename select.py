@@ -47,6 +47,24 @@ def hamming_table(www):
             table[h] = value
     return table
 
+def remove_similars(www,min_valid_h):
+
+    i = 0
+    t =time()
+    while i<len(www):
+        if i%100==0 and i:
+            print 'Word number:',i,'time [s]: %.2f'%(time()-t)
+            t = time()
+        to_del = []
+        for j in range(i+1,len(www)):
+            if hamming(www[i],www[j]) < min_valid_h:
+                to_del.append(j)
+        # delete process is arbitrary... A better choice could be done
+        for d in reversed(to_del):
+            del www[d]
+        i += 1
+            
+
 def fourfilter(www):
     
     table = {}
@@ -61,30 +79,12 @@ def fourfilter(www):
 
     return out
 
-if __name__=="__main__":
-    
-    # test
-    assert hamming("ciao","ciao") == 0
-    assert hamming("ciao","cia") == 1
-    assert hamming("mare","pare") == 1
-    assert hamming("","pare") == 4
-    assert hamming("re","pare") == 2
-    assert hamming("ar","pare") == 2
-    assert hamming("abcdefghi","d") == 8
-    
-    www = load_words('italian60k.txt')
-    #www = load_words('italian-1000-4-2.out')
-
-    print 'fourfilter len:', len(fourfilter(www))
-
-    piece_dim = 1000
-    min_valid_h = 4
+# deprecated method
+def slicing(www,piece_dim,min_valid_h):
 
     shuffle(www)
 
-    parameters = (piece_dim,min_valid_h)
-    
-    wwww = ['# parameters -> piece_dim: %d; min_valid_h: %d' % parameters]
+    wwww = ['# parameters -> piece_dim: %d; min_valid_h: %d' % (piece_dim,min_valid_h)]
     for n_slice in range(len(www)/piece_dim):
         slice_index = n_slice*piece_dim
         slice_end = (n_slice+1)*piece_dim
@@ -121,9 +121,48 @@ if __name__=="__main__":
         print '?',len(slice),'time [%s]: %.2f (ms per word: %.4f)' % (tc, t, tw)
 
         wwww.extend(slice)
-        
-    print '??',len(wwww)
-    print 'fourfilter len:', len(fourfilter(wwww))
 
-    with open('italian-%d-%d.out' % parameters,'w') as f:
-        f.writelines([x+'\n' for x in wwww])
+    return wwww
+
+def main():
+    # test
+    assert hamming("ciao","ciao") == 0
+    assert hamming("ciao","cia") == 1
+    assert hamming("mare","pare") == 1
+    assert hamming("","pare") == 4
+    assert hamming("re","pare") == 2
+    assert hamming("ar","pare") == 2
+    assert hamming("abcdefghi","d") == 8
+    
+    fname = 'italian'
+    www = load_words(fname)
+
+    print 'fourfilter len:', len(fourfilter(www))
+
+    #piece_dim = 25
+    min_valid_h = 4
+    #parameters = (piece_dim,min_valid_h)
+    parameters = ('rs',min_valid_h)
+
+    tbegin = time()
+
+    #wwww = slicing(www,piece_dim,min_valid_h)
+    wwww = www[:]
+    remove_similars(wwww,min_valid_h)
+
+    four = fourfilter(wwww)
+    ttot = (time()-tbegin) / 60.
+    print '??',len(wwww),'time [m]: %.2f' % (ttot)
+
+    print 'fourfilter len:', len(four)
+
+    with open(fname+'-(%s-%d)' % parameters,'w') as f:
+        f.writelines([x+'\n' for x in sorted(wwww)])
+
+    with open(fname+'-(%s-%d).4' % parameters,'w') as f:
+        f.writelines([x+'\n' for x in sorted(four)])
+
+    print 'Output:',fname+'-(%s-%d)'% parameters
+
+if __name__=="__main__":
+    main()
