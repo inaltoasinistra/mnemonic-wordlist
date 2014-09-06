@@ -1,5 +1,7 @@
 #!/usr/bin/env python2
 
+from time import time
+
 def hamming(ww,w):
     '''
     find the hamming distance between words w and u
@@ -55,33 +57,53 @@ if __name__=="__main__":
     assert hamming("ar","pare") == 2
     assert hamming("abcdefghi","d") == 8
     
-    www = load_words('italian60k.txt')
-    #www = www[:1000]
+    #www = load_words('italian60k.txt')
+    www = load_words('italian-1000-4.out')
 
-    print '?',len(www)
+    piece_dim = 1000
+    min_valid_h = 4
 
+    parameters = (piece_dim,min_valid_h)
+    
+    wwww = ['# parameters -> piece_dim: %d; min_valid_h: %d' % parameters]
+    for n_slice in range(len(www)/piece_dim):
+        slice_index = n_slice*piece_dim
+        slice_end = (n_slice+1)*piece_dim
+        t = time()
 
-    while True:
+        print 'slice:',n_slice,'[%d, %d)'%(slice_index,slice_end)
+        
+        slice = www[slice_index:slice_end]
 
-        print 'New cycle'
-        ht = hamming_table(www)
-        min_h = min(ht.keys())
+        print '?',len(slice)
+
+        ht = hamming_table(slice)
+        remove_h = [x for x in ht.keys() if x<min_valid_h]
+        print remove_h, ht.keys()
+        
     
         #for h in sorted(ht.keys()):
         #    print 'Hamming:',h
         #    print 'Couples:',['(%s %s)'%(www[x],www[y]) for x,y in ht[min_h]]
 
         # remove a word for each couple
-        to_remove = set([www[x[0]] for x in ht[min_h]])
-        #print to_remove
+        to_remove = set()
+        for h in remove_h:
+            to_remove.update([slice[x[0]] for x in ht[h]])
+            #print to_remove
         for word in to_remove:
-            www.remove(word)
+            slice.remove(word)
 
-        print '?',len(www), min_h
+        t = time()-t
+        # seconds or minutes
+        tw = 1000. * t / piece_dim
+        tc = 's' if t<60 else 'm'
+        t = t if t<60 else t/60. 
+        print '?',len(slice),'time [%s]: %.2f (ms per word: %.4f)' % (tc, t, tw)
 
-        if len(www) < 30000:
-            break
-
+        wwww.extend(slice)
         
-    with open('italian.out','w') as f:
-        f.writelines([x+'\n' for x in www])
+    print '??',len(wwww)
+
+    with open('italian-%d-%d.out' % parameters,'w') as f:
+        f.writelines([x+'\n' for x in wwww])
