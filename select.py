@@ -28,7 +28,7 @@ is_alpha = lambda w: not bool([c for c in w if c<'a' or c>'z'])
 def load_words(fname):
     
     with open(fname) as f:
-        return [x.strip() for x in f.readlines() if len(x.strip())>=4 and is_alpha(x.strip())]
+        return [x.strip() for x in f.readlines() if len(x.strip())>=3 and is_alpha(x.strip())]
 
 def hamming_table(www):
 
@@ -135,6 +135,8 @@ def main():
     assert hamming("abcdefghi","d") == 8
     
     fname = 'italian'
+    #fname = 'english.txt'
+
     www = load_words(fname)
 
     print 'fourfilter len:', len(fourfilter(www))
