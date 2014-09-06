@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 
 from time import time
+from random import shuffle, choice
 
 def hamming(ww,w):
     '''
@@ -46,6 +47,20 @@ def hamming_table(www):
             table[h] = value
     return table
 
+def fourfilter(www):
+    
+    table = {}
+    for w in www:
+        value = table.get(w[:4],[])
+        value.append(w)
+        table[w[:4]] = value
+
+    out = []
+    for v in table.itervalues():
+        out.append(choice(v))
+
+    return out
+
 if __name__=="__main__":
     
     # test
@@ -57,11 +72,15 @@ if __name__=="__main__":
     assert hamming("ar","pare") == 2
     assert hamming("abcdefghi","d") == 8
     
-    #www = load_words('italian60k.txt')
-    www = load_words('italian-1000-4.out')
+    www = load_words('italian60k.txt')
+    #www = load_words('italian-1000-4-2.out')
+
+    print 'fourfilter len:', len(fourfilter(www))
 
     piece_dim = 1000
     min_valid_h = 4
+
+    shuffle(www)
 
     parameters = (piece_dim,min_valid_h)
     
@@ -104,6 +123,7 @@ if __name__=="__main__":
         wwww.extend(slice)
         
     print '??',len(wwww)
+    print 'fourfilter len:', len(fourfilter(wwww))
 
     with open('italian-%d-%d.out' % parameters,'w') as f:
         f.writelines([x+'\n' for x in wwww])
