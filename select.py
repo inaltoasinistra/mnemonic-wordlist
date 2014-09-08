@@ -41,9 +41,10 @@ def hamming_table(www):
         #print 'Word:',www[i]
         for j in range(i+1,len(www)):
 
-            if www[i][:4] == www[j][:4]:
+            # change: do the check, since m'in not interest only in .4 file
+            #if www[i][:4] == www[j][:4]:
                 # One of those two words can't be selected, i'll not compere them
-                continue
+            #    continue
 
             h = hamming(www[i],www[j])
             value = table.get(h,[])
@@ -56,7 +57,7 @@ def remove_similars(www,min_valid_h):
     i = 0
     t =time()
     while i<len(www):
-        if i%100==0 and i:
+        if i%100==0 and i and time()-t>10:
             print 'Word number:',i,'time [s]: %.2f'%(time()-t)
             t = time()
         to_del = []
@@ -79,7 +80,8 @@ def fourfilter(www,four):
 
     out = []
     for v in table.itervalues():
-        out.append(choice(v))
+        maxlen = max([len(x) for x in v])
+        out.append(choice([u for u in v if len(u)==maxlen]))
 
     return out
 
@@ -124,8 +126,9 @@ def main():
     with open(fname+'-(%s-%d).4' % parameters,'w') as f:
         f.writelines([x+'\n' for x in sorted(four)])
 
-    with open(fname+'-(%s-%d).3' % parameters,'w') as f:
-        f.writelines([x+'\n' for x in sorted(fourfilter(wwww,3))])
+    for four_as_par in [3,5]:
+        with open((fname+'-(%s-%d).'+str(four_as_par)) % parameters,'w') as f:
+            f.writelines([x+'\n' for x in sorted(fourfilter(wwww,four_as_par))])
 
     print 'Output:',fname+'-(%s-%d)'% parameters
 
