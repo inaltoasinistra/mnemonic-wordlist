@@ -27,11 +27,12 @@ def hamming(ww,w):
 
 
 is_alpha = lambda w: not bool([c for c in w if c<'a' or c>'z'])
+is_not_the_same_letter = lambda w: w.strip(w[0])
 
 def load_words(fname):
     
     with open(fname) as f:
-        return [x.strip() for x in f.readlines() if len(x.strip())>=3 and is_alpha(x.strip())]
+        return [x.strip() for x in f.readlines() if len(x.strip())>=3 and is_alpha(x.strip()) and is_not_the_same_letter(x.strip())]
 
 def hamming_table(www):
 
@@ -81,51 +82,6 @@ def fourfilter(www):
         out.append(choice(v))
 
     return out
-
-# deprecated method
-def slicing(www,piece_dim,min_valid_h):
-
-    shuffle(www)
-
-    wwww = ['# parameters -> piece_dim: %d; min_valid_h: %d' % (piece_dim,min_valid_h)]
-    for n_slice in range(len(www)/piece_dim):
-        slice_index = n_slice*piece_dim
-        slice_end = (n_slice+1)*piece_dim
-        t = time()
-
-        print 'slice:',n_slice,'[%d, %d)'%(slice_index,slice_end)
-        
-        slice = www[slice_index:slice_end]
-
-        print '?',len(slice)
-
-        ht = hamming_table(slice)
-        remove_h = [x for x in ht.keys() if x<min_valid_h]
-        print remove_h, ht.keys()
-        
-    
-        #for h in sorted(ht.keys()):
-        #    print 'Hamming:',h
-        #    print 'Couples:',['(%s %s)'%(www[x],www[y]) for x,y in ht[min_h]]
-
-        # remove a word for each couple
-        to_remove = set()
-        for h in remove_h:
-            to_remove.update([slice[x[0]] for x in ht[h]])
-            #print to_remove
-        for word in to_remove:
-            slice.remove(word)
-
-        t = time()-t
-        # seconds or minutes
-        tw = 1000. * t / piece_dim
-        tc = 's' if t<60 else 'm'
-        t = t if t<60 else t/60. 
-        print '?',len(slice),'time [%s]: %.2f (ms per word: %.4f)' % (tc, t, tw)
-
-        wwww.extend(slice)
-
-    return wwww
 
 def main():
     # test
