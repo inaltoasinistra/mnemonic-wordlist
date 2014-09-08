@@ -5,6 +5,7 @@
 
 from time import time
 from random import shuffle, choice
+import sys
 
 def hamming(ww,w):
     '''
@@ -95,16 +96,19 @@ def main():
     assert hamming("ar","pare") == 2
     assert hamming("abcdefghi","d") == 8
     
-    fname = 'diceware.flat'
-    #fname = 'italian'
-    #fname = 'english.txt'
-
+    if len(sys.argv) != 3:
+        print 'USAGE:'
+        print './select.py <input-file> <min-hamming-distance>'
+        sys.exit(1)
+    
+    fname = sys.argv[1]
+    min_valid_h = int(sys.argv[2])
+    
     www = load_words(fname)
 
     print 'fourfilter len:', len(fourfilter(www,4))
 
     #piece_dim = 25
-    min_valid_h = 2
     #parameters = (piece_dim,min_valid_h)
     parameters = ('rs',min_valid_h)
 
@@ -126,9 +130,11 @@ def main():
     with open(fname+'-(%s-%d).4' % parameters,'w') as f:
         f.writelines([x+'\n' for x in sorted(four)])
 
+    '''
     for four_as_par in [3,5]:
         with open((fname+'-(%s-%d).'+str(four_as_par)) % parameters,'w') as f:
             f.writelines([x+'\n' for x in sorted(fourfilter(wwww,four_as_par))])
+    '''
 
     print 'Output:',fname+'-(%s-%d)'% parameters
 
