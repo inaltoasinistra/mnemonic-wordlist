@@ -69,13 +69,13 @@ def remove_similars(www,min_valid_h):
         i += 1
             
 
-def fourfilter(www):
+def fourfilter(www,four):
     
     table = {}
     for w in www:
-        value = table.get(w[:4],[])
+        value = table.get(w[:four],[])
         value.append(w)
-        table[w[:4]] = value
+        table[w[:four]] = value
 
     out = []
     for v in table.itervalues():
@@ -93,15 +93,16 @@ def main():
     assert hamming("ar","pare") == 2
     assert hamming("abcdefghi","d") == 8
     
-    fname = 'italian'
+    fname = 'diceware.flat'
+    #fname = 'italian'
     #fname = 'english.txt'
 
     www = load_words(fname)
 
-    print 'fourfilter len:', len(fourfilter(www))
+    print 'fourfilter len:', len(fourfilter(www,4))
 
     #piece_dim = 25
-    min_valid_h = 4
+    min_valid_h = 2
     #parameters = (piece_dim,min_valid_h)
     parameters = ('rs',min_valid_h)
 
@@ -111,7 +112,7 @@ def main():
     wwww = www[:]
     remove_similars(wwww,min_valid_h)
 
-    four = fourfilter(wwww)
+    four = fourfilter(wwww,4)
     ttot = (time()-tbegin) / 60.
     print '??',len(wwww),'time [m]: %.2f' % (ttot)
 
@@ -122,6 +123,9 @@ def main():
 
     with open(fname+'-(%s-%d).4' % parameters,'w') as f:
         f.writelines([x+'\n' for x in sorted(four)])
+
+    with open(fname+'-(%s-%d).3' % parameters,'w') as f:
+        f.writelines([x+'\n' for x in sorted(fourfilter(wwww,3))])
 
     print 'Output:',fname+'-(%s-%d)'% parameters
 
