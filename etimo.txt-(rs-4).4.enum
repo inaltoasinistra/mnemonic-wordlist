@@ -831,27 +831,27 @@
 830 eclittica
 831 economo
 832 ecumenico
-833 eden
-834 edifizio
-835 efelide
-836 effervescente
-837 effimero
-838 efflorescenza
-839 effrenato
-840 effusione
-841 egregio
-842 eiaculazione
-843 eidotropio
-844 elefantiasi
-845 eleggere
-846 eleisonne
-847 elemosina
-848 elettrizzare
-849 eleuterie
-850 elianto
-851 elicriso
-852 eligibile
-853 elioscopio
+2 833 eden
+0 834 edifizio
+0 835 efelide
+2 836 effervescente
+2 837 effimero
+0 838 efflorescenza
+0 839 effrenato
+2 840 effusione
+2 841 egregio
+0 842 eiaculazione
+0 843 eidotropio
+0 844 elefantiasi
+2 845 eleggere
+0 846 eleisonne
+2 847 elemosina
+2 848 elettrizzare
+0 849 eleuterie
+2 850 elianto
+0 851 elicriso
+0 852 eligibile
+0 853 elioscopio
 2 854 elisir
 0 855 elitropio
 0 856 elleboro
@@ -1015,178 +1015,178 @@
 0 1014 festuca
 2 1015 fettuccia
 2  1016 feudo
-1017 fiacchere
-1018 fiammeggiare
-1019 fiandrotto
-1020 fideiussione
-1021 fiducia
-1022 figliuolo
-1023 filarmonico
-1024 filelleno
-1025 filibustriere
-1026 filodrammatico
-1027 filunguello
-1028 finitimo
-1029 finzione
-1030 fiorcappuccio
-1031 firmamento
-1032 fischierella
-1033 fisiocratico
-1034 fissazione
-1035 fistiare
-1036 flaccido
-1037 flagellanti
-1038 flatulento
-1039 flauto
-1040 flebotomo
-1041 flegetonte
-1042 flemmasia
-1043 flessibile
-1044 fliscorno
-1045 flittene
-1046 flogisto
-1047 florilegio
-1048 flosculo
-1049 flottiglia
-1050 flussione
-1051 fluttuare
-1052 focattola
-1053 focherello
-1054 folcire
-1055 fomicolazione
-1056 fontanella
-1057 forasacco
-1058 forbicicchia
-1059 forestiero
-1060 formalizzarsi
-1061 fornicare
-1062 forosetto
-1063 fortilizio
-1064 foruncolo
-1065 fosforo
-1066 fradicio
-1067 fragolino
-1068 frammischiare
-1069 francheggiare
-1070 frapponeria
-1071 frastagliare
-1072 fratricida
-1073 fraudolento
-1074 freddoloso
-1075 fregata
-1076 fremebondo
-1077 frenesia
-1078 fricassea
-1079 frigidario
-1080 fringuello
-1081 frisinga
-1082 frittata
-1083 fromba
-1084 frontespizio
-1085 frucacchiare
-1086 frugifero
-1087 frullana
-1088 frustraneo
-1089 frutice
-1090 ftiriasi
-1091 fuciacca
-1092 fulcro
-1093 fumaruolo
-1094 fumosterno
-1095 funicolare
-1096 fuocatico
-1097 fuoruscito
-1098 furfantina
-1099 furoncello
-1100 fusciacchio
-1101 fuseragnolo
-1102 fustagno
-1103 gabriella
-1104 gagliardetto
-1105 galattoforo
-1106 galeone
-1107 gallinaceo
-1108 galoppare
-1109 galuppo
-1110 galvanoplastica
-1111 gammaut
-1112 gamurra
-1113 ganghire
-1114 ganimede
-1115 gargantiglia
-1116 garontolo
-1117 garrulo
-1118 garzuolo
-1119 gasindo
-1120 gassogene
-1121 gastricismo
-1122 gattopardo
-1123 gaudeamus
-1124 gavardina
-1125 gavocciolo
-1126 gazzarrino
-1127 gelatina
-1128 gelsomino
-1129 gendarme
-1130 genetliaco
-1131 genitrice
-1132 gentile
-1133 genuflettere
-1134 genziana
-1135 geometria
-1136 georgofilo
-1137 gerapicra
-1138 gerfalco
-1139 germinare
-1140 geroglifico
-1141 gerundio
-1142 gesticolare
-1143 gettaione
-1144 gherminella
-1145 ghetta
-1146 ghiazzerino
-1147 ghibellino
-1148 ghigliottina
-1149 ghinghellare
-1150 ghiottoneria
-1151 ghiribizzo
-1152 giaculatoria
-1153 giaggiolo
-1154 giansenismo
-1155 giarrettiera
-1156 giavellotto
-1157 giberna
-1158 ginecocrazia
-1159 gingillo
-1160 ginnosofista
-1161 ginocchioni
-1162 giocolatore
-1163 giogaia
-1164 giornaliero
-1165 giovanezza
-1166 girandola
-1167 girigoro
-1168 giubbetto
-1169 giuggiolena
-1170 giulebbo
-1171 giunchiglia
-1172 giurisprudenza
-1173 giuspatronato
-1174 glandula
-1175 glave
-1176 gleucometro
-1177 glicirrizza
-1178 gliptoteca
-1179 glucosio
-1180 gneis
-1181 gnorri
-1182 gocciolatoio
-1183 golena
-1184 golgota
-1185 gommagutta
-1186 gonfaloniere
-1187 gorgheggiare
-1188 gorzarino
+0 1017 fiacchere
+2 1018 fiammeggiare
+0 1019 fiandrotto
+0 1020 fideiussione
+2 1021 fiducia
+2 1022 figliuolo
+2 1023 filarmonico
+0 1024 filelleno
+2 1025 filibustriere
+2 1026 filodrammatico
+0 1027 filunguello
+0 1028 finitimo
+2 1029 finzione
+0 1030 fiorcappuccio
+2 1031 firmamento
+0 1032 fischierella
+0 1033 fisiocratico
+2 1034 fissazione
+0 1035 fistiare
+2 1036 flaccido
+2 1037 flagellanti
+1 1038 flatulento
+2 1039 flauto
+0 1040 flebotomo
+0 1041 flegetonte
+0 1042 flemmasia
+2 1043 flessibile
+0 1044 fliscorno
+0 1045 flittene
+0 1046 flogisto
+0 1047 florilegio
+0 1048 flosculo
+0 1049 flottiglia
+0 1050 flussione
+2 1051 fluttuare
+0 1052 focattola
+2 1053 focherello
+0 1054 folcire
+0 1055 fomicolazione
+2 1056 fontanella
+0 1057 forasacco
+0 1058 forbicicchia
+2 1059 forestiero
+2 1060 formalizzarsi
+1 1061 fornicare
+0 1062 forosetto
+0 1063 fortilizio
+0 1064 foruncolo
+2 1065 fosforo
+2 1066 fradicio
+2 1067 fragolino
+0 1068 frammischiare
+0 1069 francheggiare
+0 1070 frapponeria
+2 1071 frastagliare
+0 1072 fratricida
+2 1073 fraudolento
+2 1074 freddoloso
+2 1075 fregata
+0 1076 fremebondo
+2 1077 frenesia
+0 1078 fricassea
+0 1079 frigidario
+2 1080 fringuello
+0 1081 frisinga
+2 1082 frittata
+0 1083 fromba
+2 1084 frontespizio
+0 1085 frucacchiare
+0 1086 frugifero
+0 1087 frullana
+0 1088 frustraneo
+0 1089 frutice
+0 1090 ftiriasi
+0 1091 fuciacca
+2 1092 fulcro
+0 1093 fumaruolo
+0 1094 fumosterno
+2 1095 funicolare
+0 1096 fuocatico
+0 1097 fuoruscito
+2 1098 furfantina
+0 1099 furoncello
+0 1100 fusciacchio
+0 1101 fuseragnolo
+0 1102 fustagno
+0 1103 gabriella
+0 1104 gagliardetto
+0 1105 galattoforo
+2 1106 galeone
+0 1107 gallinaceo
+2 1108 galoppare
+0 1109 galuppo
+0 1110 galvanoplastica
+0 1111 gammaut
+0 1112 gamurra
+0 1113 ganghire
+0 1114 ganimede
+0 1115 gargantiglia
+0 1116 garontolo
+0 1117 garrulo
+0 1118 garzuolo
+0 1119 gasindo
+0 1120 gassogene
+0 1121 gastricismo
+2 1122 gattopardo
+0 1123 gaudeamus
+0 1124 gavardina
+0 1125 gavocciolo
+0 1126 gazzarrino
+2 1127 gelatina
+2 1128 gelsomino
+2 1129 gendarme
+0 1130 genetliaco
+2 1131 genitrice
+2 1132 gentile
+2 1133 genuflettere
+2 1134 genziana
+2 1135 geometria
+0 1136 georgofilo
+0 1137 gerapicra
+0 1138 gerfalco
+2 1139 germinare
+2 1140 geroglifico
+2 1141 gerundio
+2 1142 gesticolare
+0 1143 gettaione
+0 1144 gherminella
+0 1145 ghetta
+0 1146 ghiazzerino
+2 1147 ghibellino
+2 1148 ghigliottina
+0 1149 ghinghellare
+2 1150 ghiottoneria
+2 1151 ghiribizzo
+0 1152 giaculatoria
+0 1153 giaggiolo
+0 1154 giansenismo
+2 1155 giarrettiera
+2 1156 giavellotto
+0 1157 giberna
+0 1158 ginecocrazia
+2 1159 gingillo
+0 1160 ginnosofista
+0 1161 ginocchioni
+0 1162 giocolatore
+0 1163 giogaia
+2 1164 giornaliero
+2 1165 giovanezza
+2 1166 girandola
+0 1167 girigoro
+2 1168 giubbetto
+0 1169 giuggiolena
+0 1170 giulebbo
+0 1171 giunchiglia
+0 1172 giurisprudenza
+0 1173 giuspatronato
+0 1174 glandula
+0 1175 glave
+0 1176 gleucometro
+0 1177 glicirrizza
+0 1178 gliptoteca
+2 1179 glucosio
+0 1180 gneis
+2 1181 gnorri
+2 1182 gocciolatoio
+1 1183 golena
+0 1184 golgota
+0 1185 gommagutta
+0 1186 gonfaloniere
+0 1187 gorgheggiare
+0 1188 gorzarino
 1189 gottolagnola
 1190 governare
 1191 gozzoviglia
@@ -1383,278 +1383,278 @@
 2 1382 leopardo
 1 1383 lepidotteri
 2 1384 lessicografia
-1385 lettisternio
-1386 leucocefalo
-1387 levitongo
-1388 liberticida
-1389 libidine
-1390 licantropia
-1391 licciaiuola
-1392 licenziare
-1393 licopodio
-1394 lievito
-1395 ligustro
-1396 limitrofo
-1397 linfa
-1398 linguaggio
-1399 lipotimia
-1400 liquirizia
-1401 liscivia
-1402 litargirio
-1403 litocromografia
-1404 livrea
-1405 locanda
-1406 lochi
-1407 locomozione
-1408 locupletare
-1409 logismografia
-1410 logogrifo
-1411 lombrico
-1412 longitudine
-1413 lonigildo
-1414 loquela
-1415 lotofagi
-1416 lucertola
-1417 lucherino
-1418 ludibrio
-1419 luffomastro
-1420 luggiola
-1421 lumacaglia
-1422 luminello
-1423 lunazione
-1424 lunghesso
-1425 luogo
-1426 lupercali
-1427 lussureggiare
-1428 macadam
-1429 macchinare
-1430 machiavellesco
-1431 maciulla
-1432 macogano
-1433 madreperla
-1434 maestranza
-1435 maggiorenne
-1436 magistrale
-1437 magliettare
-1438 magniloquenza
-1439 maiuscolo
-1440 malazzato
-1441 malgrado
-1442 maliscalco
-1443 malleabile
-1444 malvavischio
-1445 mammalucco
-1446 mancinata
-1447 mandragolone
-1448 manfrina
-1449 mangiucchiare
-1450 manimettere
-1451 manomissione
-1452 manrovescio
-1453 mansionario
-1454 mantrugiare
-1455 manubalestra
-1456 mappamondo
-1457 marachella
-1458 marciapiede
-1459 maresciallo
-1460 margherita
-1461 marionetta
-1462 marmellata
-1463 marruffino
-1464 marsigliese
-1465 martirologio
-1466 marvizzo
-1467 marzacotto
-1468 mascalzone
-1469 massoneria
-1470 mastuprazione
-1471 materializzare
-1472 matricolare
-1473 matterugio
-1474 mausoleo
-1475 mazzacavallo
-1476 meandro
-1477 meccanica
-1478 medesimo
-1479 mediterraneo
-1480 megalomania
-1481 melarancia
-1482 meliceride
-1483 mellifluo
-1484 melodramma
-1485 melpomene
-1486 membratura
-1487 memorandum
-1488 menadito
-1489 mendicante
-1490 menestrello
-1491 mengoi
-1492 meninge
-1493 menostasia
-1494 menstruo
-1495 mentecatto
-1496 meraviglia
-1497 mercimonio
-1498 meridionale
-1499 mesenterio
-1500 mesmerismo
-1501 messaggiero
-1502 mestieri
-1503 metallurgia
-1504 meteoroscopia
-1505 meticoloso
-1506 metoposcopia
-1507 metropolitano
-1508 mezzedima
-1509 michelaccio
-1510 micidiale
-1511 micologia
-1512 microcefalo
-1513 migliarini
-1514 millepiedi
-1515 milorde
-1516 mimesi
-1517 minchione
-1518 minestriere
-1519 minorasco
-1520 minutaglia
-1521 miosotide
-1522 mirabolano
-1523 miriagramma
-1524 mirmicoleone
-1525 mirtiforme
-1526 miscellanea
-1527 misericordia
-1528 misogallo
-1529 mistral
-1530 misvenire
-1531 mittente
-1532 mnemonica
-1533 mocaiardo
-1534 moccichino
-1535 modalita
-1536 modulare
-1537 moglie
-1538 molbideno
-1539 molecola
-1540 molinosismo
-1541 mollusco
-1542 moltiplicare
-1543 monachetto
-1544 mondezzaio
-1545 monferina
-1546 mongolfiera
-1547 monitore
-1548 monocotiledono
-1549 monsignore
-1550 monticello
-1551 monumento
-1552 morchia
-1553 mordere
-1554 morgiano
-1555 moriccia
-1556 mormonismo
-1557 mortaletto
-1558 moschettare
-1559 mossolina
-1560 mostruoso
-1561 motuproprio
-1562 mozzorecchi
-1563 mucciaccio
-1564 mucilagine
-1565 mucronato
-1566 muezzino
-1567 mufti
-1568 mugavero
-1569 mugnaio
-1570 muliebre
-1571 multiplo
-1572 munifico
-1573 muraglia
-1574 musaragno
-1575 musornione
-1576 mussulmano
-1577 mustacchio
-1578 nababbo
-1579 nanchino
-1580 narcosi
-1581 narrvalo
-1582 nascituro
-1583 nasturzio
-1584 natalizio
-1585 naufragio
-1586 naumachia
-1587 nausea
-1588 navalestro
-1589 navicella
-1590 nazzareno
-1591 necessita
-1592 necromante
-1593 nefelopsia
-1594 neghittoso
-1595 nenufar
-1596 neologismo
-1597 nequizia
-1598 nerboruto
-1599 nesciente
-1600 nessuno
-1601 nevischio
-1602 nevroastenia
-1603 nichilismo
-1604 nicoziana
-1605 nidiace
-1606 niffolo
-1607 ninfomania
-1608 niquita
-1609 nittalopia
-1610 nizzarda
-1611 noderoso
-1612 nomenclatura
-1613 nominalista
-1614 nomoteti
-1615 nonagenario
-1616 nonnulla
-1617 nonostante
-1618 nonuplo
-1619 nosogenesi
-1620 nottambulo
-1621 novendiali
-1622 novissimo
-1623 nubifragio
-1624 numismatica
-1625 nummiforme
-1626 nuncupativo
-1627 nundinale
-1628 obbligazione
-1629 obliterare
-1630 obtrettare
-1631 occasione
-1632 occitanico
-1633 oculista
-1634 odissea
-1635 odontalgia
-1636 offertorio
-1637 officina
-1638 oftalmoiatria
-1639 oggidi
-1640 ognissanti
-1641 oleastro
-1642 olibano
-1643 oligoemia
-1644 olimpiade
-1645 olivetano
-1646 olocausto
-1647 oltramontano
-1648 ombelico
-1649 omicron
-1650 omnibus
-1651 omogeneo
-1652 omologare
-1653 omoplata
-1654 onniveggente
-1655 onomatopeia
-1656 opoponace
+0 1385 lettisternio
+0 1386 leucocefalo
+0 1387 levitongo
+2 1388 liberticida
+2 1389 libidine
+2 1390 licantropia
+0 1391 licciaiuola
+2 1392 licenziare
+0 1393 licopodio
+2 1394 lievito
+0 1395 ligustro
+2 1396 limitrofo
+2 1397 linfa
+2 1398 linguaggio
+0 1399 lipotimia
+2 1400 liquirizia
+0 1401 liscivia
+0 1402 litargirio
+1 1403 litocromografia
+2 1404 livrea
+2 1405 locanda
+0 1406 lochi
+2 1407 locomozione
+0 1408 locupletare
+0 1409 logismografia
+0 1410 logogrifo
+2 1411 lombrico
+2 1412 longitudine
+0 1413 lonigildo
+0 1414 loquela
+0 1415 lotofagi
+2 1416 lucertola
+0 1417 lucherino
+0 1418 ludibrio
+0 1419 luffomastro
+0 1420 luggiola
+0 1421 lumacaglia
+0 1422 luminello
+0 1423 lunazione
+0 1424 lunghesso
+2 1425 luogo
+0 1426 lupercali
+2 1427 lussureggiare
+0 1428 macadam
+2 1429 macchinare
+1 1430 machiavellesco
+0 1431 maciulla
+0 1432 macogano
+2 1433 madreperla
+2 1434 maestranza
+2 1435 maggiorenne
+2 1436 magistrale
+0 1437 magliettare
+1 1438 magniloquenza
+2 1439 maiuscolo
+0 1440 malazzato
+2 1441 malgrado
+0 1442 maliscalco
+2 1443 malleabile
+0 1444 malvavischio
+2 1445 mammalucco
+2 1446 mancinata
+0 1447 mandragolone
+2 1448 manfrina
+2 1449 mangiucchiare
+0 1450 manimettere
+2 1451 manomissione
+1 1452 manrovescio
+0 1453 mansionario
+0 1454 mantrugiare
+0 1455 manubalestra
+2 1456 mappamondo
+2 1457 marachella
+2 1458 marciapiede
+2 1459 maresciallo
+2 1460 margherita
+2 1461 marionetta
+2 1462 marmellata
+0 1463 marruffino
+2 1464 marsigliese
+0 1465 martirologio
+0 1466 marvizzo
+0 1467 marzacotto
+2 1468 mascalzone
+2 1469 massoneria
+0 1470 mastuprazione
+2 1471 materializzare
+2 1472 matricolare
+0 1473 matterugio
+2 1474 mausoleo
+0 1475 mazzacavallo
+2 1476 meandro
+2 1477 meccanica
+2 1478 medesimo
+2 1479 mediterraneo
+2 1480 megalomania
+0 1481 melarancia
+0 1482 meliceride
+2 1483 mellifluo
+2 1484 melodramma
+0 1485 melpomene
+0 1486 membratura
+0 1487 memorandum
+2 1488 menadito
+2 1489 mendicante
+2 1490 menestrello
+0 1491 mengoi
+2 1492 meninge
+0 1493 menostasia
+0 1494 menstruo
+2 1495 mentecatto
+2 1496 meraviglia
+0 1497 mercimonio
+2 1498 meridionale
+0 1499 mesenterio
+0 1500 mesmerismo
+2 1501 messaggiero
+2 1502 mestieri
+2 1503 metallurgia
+0 1504 meteoroscopia
+2 1505 meticoloso
+0 1506 metoposcopia
+2 1507 metropolitano
+0 1508 mezzedima
+0 1509 michelaccio
+2 1510 micidiale
+2 1511 micologia
+2 1512 microcefalo
+0 1513 migliarini
+2 1514 millepiedi
+0 1515 milorde
+0 1516 mimesi
+0 1517 minchione
+0 1518 minestriere
+0 1519 minorasco
+0 1520 minutaglia
+0 1521 miosotide
+2 1522 mirabolano
+0 1523 miriagramma
+0 1524 mirmicoleone
+0 1525 mirtiforme
+2 1526 miscellanea
+2 1527 misericordia
+0 1528 misogallo
+0 1529 mistral
+0 1530 misvenire
+2 1531 mittente
+2 1532 mnemonica
+0 1533 mocaiardo
+0 1534 moccichino
+0 1535 modalita
+2 1536 modulare
+2 1537 moglie
+0 1538 molbideno
+2 1539 molecola
+0 1540 molinosismo
+2 1541 mollusco
+2 1542 moltiplicare
+2 1543 monachetto
+2 1544 mondezzaio
+0 1545 monferina
+2 1546 mongolfiera
+2 1547 monitore
+0 1548 monocotiledono
+2 1549 monsignore
+2 1550 monticello
+2 1551 monumento
+0 1552 morchia
+2 1553 mordere
+0 1554 morgiano
+0 1555 moriccia
+2 1556 mormonismo
+0 1557 mortaletto
+2 1558 moschettare
+0 1559 mossolina
+2 1560 mostruoso
+0 1561 motuproprio
+0 1562 mozzorecchi
+0 1563 mucciaccio
+2 1564 mucilagine
+0 1565 mucronato
+0 1566 muezzino
+0 1567 mufti
+0 1568 mugavero
+2 1569 mugnaio
+0 1570 muliebre
+2 1571 multiplo
+0 1572 munifico
+2 1573 muraglia
+0 1574 musaragno
+0 1575 musornione
+2 1576 mussulmano
+0 1577 mustacchio
+2 1578 nababbo
+0 1579 nanchino
+2 1580 narcosi
+2 1581 narrvalo
+2 1582 nascituro
+0 1583 nasturzio
+2 1584 natalizio
+2 1585 naufragio
+0 1586 naumachia
+2 1587 nausea
+0 1588 navalestro
+2 1589 navicella
+2 1590 nazzareno
+2 1591 necessita
+2 1592 necromante
+0 1593 nefelopsia
+0 1594 neghittoso
+0 1595 nenufar
+2 1596 neologismo
+0 1597 nequizia
+2 1598 nerboruto
+0 1599 nesciente
+2 1600 nessuno
+2 1601 nevischio
+0 1602 nevroastenia
+2 1603 nichilismo
+0 1604 nicoziana
+0 1605 nidiace
+0 1606 niffolo
+2 1607 ninfomania
+0 1608 niquita
+0 1609 nittalopia
+0 1610 nizzarda
+0 1611 noderoso
+2 1612 nomenclatura
+2 1613 nominalista
+0 1614 nomoteti
+0 1615 nonagenario
+2 1616 nonnulla
+2 1617 nonostante
+0 1618 nonuplo
+0 1619 nosogenesi
+2 1620 nottambulo
+0 1621 novendiali
+0 1622 novissimo
+2 1623 nubifragio
+2 1624 numismatica
+0 1625 nummiforme
+0 1626 nuncupativo
+0 1627 nundinale
+2 1628 obbligazione
+2 1629 obliterare
+0 1630 obtrettare
+2 1631 occasione
+0 1632 occitanico
+2 1633 oculista
+2 1634 odissea
+0 1635 odontalgia
+2 1636 offertorio
+2 1637 officina
+0 1638 oftalmoiatria
+0 1639 oggidi
+1 1640 ognissanti
+2 1641 oleastro
+0 1642 olibano
+0 1643 oligoemia
+2 1644 olimpiade
+0 1645 olivetano
+1 1646 olocausto
+0 1647 oltramontano
+2 1648 ombelico
+0 1649 omicron
+0 1650 omnibus
+2 1651 omogeneo
+2 1652 omologare
+0 1653 omoplata
+0 1654 onniveggente
+0 1655 onomatopeia
+0 1656 opoponace
 1657 oppignorare
 1658 oppugnare
 1659 oramai
