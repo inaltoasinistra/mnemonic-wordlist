@@ -1,6 +1,6 @@
-0 abaco
-1 abadessa
-2 abballucciare
+2 0 abaco
+0 1 abadessa
+0 2 abballucciare
 3 abbecedario
 4 abbiosciare
 5 abbozzacchire
@@ -852,169 +852,169 @@
 851 elicriso
 852 eligibile
 853 elioscopio
-854 elisir
-855 elitropio
-856 elleboro
-857 ellitico
-858 elocuzione
-859 eloquente
-860 elucubrazione
-861 ematite
-862 emblema
-863 embrione
-864 emendare
-865 emerocalle
-866 emiciclo
-867 emiplegia
-868 emistichio
-869 emmenagogo
-870 emolliente
-871 emorroide
-872 emostatico
-873 emottisi
-874 empiastro
-875 emporetico
-876 emuntorio
-877 enallage
-878 encaustica
-879 enciclopedia
-880 endemico
-881 endivia
-882 endogenia
-883 energumeno
-884 enfasi
-885 enfiteusi
-886 enofilo
-887 enterotomia
-888 entomologia
-889 entraglie
-890 entusiasmo
-891 enumerare
-892 epatizzazione
-893 epentesi
-894 epesegesi
-895 epibate
-896 epicherema
-897 epidermide
-898 epifonema
-899 epiglottide
-900 epilessia
-901 epiploo
-902 epispastico
-903 epitalamio
-904 epizoozia
-905 epoca
-906 epulone
-907 equanime
-908 equestre
-909 equipollente
-910 erborizzare
-911 ereditiera
-912 eresiarca
-913 eretismo
-914 ergastolo
-915 erigere
-916 erisipela
-917 ermafrodito
-918 ermeticamente
-919 errabondo
-920 erubescente
-921 eruginoso
-922 esantema
-923 esattore
-924 escerto
-925 esclamare
-926 escogitare
-927 escrescenza
-928 escursione
-929 esedra
-930 esemplare
-931 esercito
-932 esinanire
-933 esiziale
-934 esorcizzare
-935 esoterico
-936 espatriare
-937 espettorare
-938 espiscare
-939 esplicito
-940 esporre
-941 espromissore
-942 essenza
-943 estemporaneo
-944 estinguere
-945 estollere
-946 estradizione
-947 esuberante
-948 eteroclito
-949 ettaccordo
-950 ettogramma
-951 eucarestia
-952 eufemismo
-953 euforbia
-954 eumenidi
-955 eunuco
-956 eupatride
-957 eureka
-958 euritmia
-959 eutecnia
-960 evacuare
-961 evaporare
-962 eventuale
-963 evincere
-964 evviva
-965 exequatur
-966 extremis
-967 fabbrica
-968 faccenda
-969 fachiro
-970 facicchiare
-971 facolta
-972 falanstero
-973 falconetto
-974 faldistorio
-975 falegname
-976 fallibile
-977 falsobordone
-978 famigerato
-979 famulato
-980 fanale
-981 fanciullo
-982 fandonia
-983 fanerogamo
-984 fanfarone
-985 fannonnolo
-986 fantasmagoria
-987 farabolone
-988 farchetola
-989 farfanicchio
-990 farmaceutico
-991 farneticare
-992 farsa
-993 fastidio
-994 fatappio
-995 fatidico
-996 fattucchiere
-997 favagello
-998 favoso
-999 fazzolo
-1000 febbraio
-1001 februali
-1002 fecondo
-1003 fedecommesso
-1004 fedifrago
-1005 feldspato
-1006 felicitare
-1007 feneratizio
-1008 fenicottero
-1009 fenomeno
-1010 feretro
-1011 fermentazione
-1012 ferraggine
-1013 fescennino
-1014 festuca
-1015 fettuccia
-1016 feudo
+2 854 elisir
+0 855 elitropio
+0 856 elleboro
+2 857 ellitico
+1 858 elocuzione
+2 859 eloquente
+2 860 elucubrazione
+0 861 ematite
+2 862 emblema
+2 863 embrione
+2 864 emendare
+0 865 emerocalle
+0 866 emiciclo
+0 867 emiplegia
+0 868 emistichio
+0 869 emmenagogo
+0 870 emolliente
+1  871 emorroide
+2 872 emostatico
+0 873 emottisi
+0 874 empiastro
+0 875 emporetico
+0 876 emuntorio
+0 877 enallage
+0 878 encaustica
+2 879 enciclopedia
+2 880 endemico
+0 881 endivia
+0 882 endogenia
+2 883 energumeno
+2 884 enfasi
+2 885 enfiteusi
+0 886 enofilo
+0 887 enterotomia
+0 888 entomologia
+0 889 entraglie
+2 890 entusiasmo
+2 891 enumerare
+0 892 epatizzazione
+0 893 epentesi
+0 894 epesegesi
+0 895 epibate
+0 896 epicherema
+2 897 epidermide
+0 898 epifonema
+1 899 epiglottide
+1 900 epilessia
+0 901 epiploo
+0 902 epispastico
+0 903 epitalamio
+0 904 epizoozia
+2 905 epoca
+0 906 epulone
+0 907 equanime
+2 908 equestre
+1 909 equipollente
+1 910 erborizzare
+2 911 ereditiera
+2 912 eresiarca
+2 913 eretismo
+2 914 ergastolo
+2 915 erigere
+0 916 erisipela
+0 917 ermafrodito
+2 918 ermeticamente
+0 919 errabondo
+0 920 erubescente
+0 921 eruginoso
+0 922 esantema
+2 923 esattore
+0 924 escerto
+2 925 esclamare
+2 926 escogitare
+1 927 escrescenza
+2 928 escursione
+0 929 esedra
+2 930 esemplare
+2 931 esercito
+0 932 esinanire
+0 933 esiziale
+2 934 esorcizzare
+2 935 esoterico
+2 936 espatriare
+0 937 espettorare
+0 938 espiscare
+2 939 esplicito
+2 940 esporre
+0 941 espromissore
+2 942 essenza
+2 943 estemporaneo
+2 944 estinguere
+0 945 estollere
+2 946 estradizione
+2 947 esuberante
+0 948 eteroclito
+0 949 ettaccordo
+0 950 ettogramma
+2 951 eucarestia
+2 952 eufemismo
+0 953 euforbia
+0 954 eumenidi
+1 955 eunuco
+0 956 eupatride
+2 957 eureka
+0 958 euritmia
+0 959 eutecnia
+2 960 evacuare
+2 961 evaporare
+2 962 eventuale
+2 963 evincere
+2 964 evviva
+0 965 exequatur
+2 966 extremis
+2 967 fabbrica
+2 968 faccenda
+2 969 fachiro
+0 970 facicchiare
+0 971 facolta
+0 972 falanstero
+0 973 falconetto
+0 974 faldistorio
+2 975 falegname
+1 976 fallibile
+0 977 falsobordone
+2 978 famigerato
+0 979 famulato
+2 980 fanale
+2 981 fanciullo
+2 982 fandonia
+0 983 fanerogamo
+2 984 fanfarone
+0 985 fannonnolo
+0 986 fantasmagoria
+0 987 farabolone
+0 988 farchetola
+0 989 farfanicchio
+2 990 farmaceutico
+2 991 farneticare
+2 992 farsa
+2 993 fastidio
+0 994 fatappio
+2 995 fatidico
+2 996 fattucchiere
+0 997 favagello
+2 998 favoso
+0 999 fazzolo
+2 1000 febbraio
+0 1001 februali
+2 1002 fecondo
+0 1003 fedecommesso
+0 1004 fedifrago
+0 1005 feldspato
+2 1006 felicitare
+0 1007 feneratizio
+2 1008 fenicottero
+2 1009 fenomeno
+2 1010 feretro
+2 1011 fermentazione
+0 1012 ferraggine
+0 1013 fescennino
+0 1014 festuca
+2 1015 fettuccia
+2  1016 feudo
 1017 fiacchere
 1018 fiammeggiare
 1019 fiandrotto
@@ -1233,156 +1233,156 @@
 1232 idroterapia
 1233 iettatura
 1234 igiene
-1235 ignivomo
-1236 ignominia
-1237 iipemania
-1238 illaqueare
-1239 illegittimo
-1240 illusorio
-1241 imbavagliare
-1242 imbeccherare
-1243 imbizzarrire
-1244 imborsacchiare
-1245 imbracciare
-1246 imenotteri
-1247 immarcescibile
-1248 immensurabile
-1249 immigrare
-1250 immutabile
-1251 imoscapo
-1252 impastocchiare
-1253 imperscrutabile
-1254 impiallacciare
-1255 imponderabile
-1256 imprescindibile
-1257 imputrescibile
-1258 inabissare
-1259 inaccessibile
-1260 inalienabile
-1261 inarpicare
-1262 inaspare
-1263 incatricchiare
-1264 incespicare
-1265 inchiesta
-1266 inciprignarsi
-1267 inclusivo
-1268 incommensurabile
-1269 incrollabile
-1270 incunabulo
-1271 indeclinabile
-1272 indispensabile
-1273 indolenzire
-1274 indulgente
-1275 inebriare
-1276 ineluttabile
-1277 inerente
-1278 inestricabile
-1279 inezia
-1280 infallantemente
-1281 infeltrire
-1282 infingardo
-1283 inflammatorio
-1284 infognarsi
-1285 infrascritto
-1286 infuturare
-1287 ingarbugliare
-1288 inghiottire
-1289 ingiusto
-1290 ingordina
-1291 ingraticchiare
-1292 ingurgitare
-1293 iniquo
-1294 iniziativo
-1295 innanzi
-1296 inofficioso
-1297 inopinabile
-1298 inorridire
-1299 inoscularsi
-1300 inquisitore
-1301 insaputa
-1302 insettologia
-1303 insieme
-1304 insorgere
-1305 inspessire
-1306 instantaneo
-1307 insurrezione
-1308 intabaccare
-1309 internazionale
-1310 intimpanire
-1311 intonacare
-1312 intrabiccolare
-1313 intumescenza
-1314 inuzzolire
-1315 invalido
-1316 invecchiare
-1317 invisibilio
-1318 involucro
-1319 inzafardare
-1320 inzipillare
-1321 ionodattico
-1322 ipecacuana
-1323 ipercenesia
-1324 ipocondria
-1325 ipodermico
-1326 ipogeo
-1327 ipostasi
-1328 ipotenusa
-1329 ippocentauro
-1330 ipsilon
-1331 irradiare
-1332 irrefragabile
-1333 irritrosire
-1334 irrubinare
-1335 isagoge
-1336 ischiatico
-1337 isocrono
-1338 isomeria
-1339 ispido
-1340 istaurare
-1341 istmici
-1342 istoriografo
-1343 ittiosauro
-1344 iuccicone
-1345 iungla
-1346 iusignuolo
-1347 laberinto
-1348 laboratorio
-1349 labrace
-1350 laburno
-1351 lacchezzo
-1352 laciniato
-1353 lacrimatoio
-1354 lagrima
-1355 lambiccare
-1356 lamdacismo
-1357 lampione
-1358 lanceolare
-1359 languiscente
-1360 lanificio
-1361 lanternaia
-1362 lanzichenecco
-1363 lapislazzuli
-1364 laringoscopio
-1365 lasagnino
-1366 laserpizio
-1367 lassativo
-1368 laticlavio
-1369 latomia
-1370 latrocinio
-1371 lattiginoso
-1372 laudemio
-1373 lavanese
-1374 lazzeretto
-1375 leccornia
-1376 leggiadro
-1377 legittimista
-1378 legnatico
-1379 lemnisco
-1380 lenocinio
-1381 lentischio
-1382 leopardo
-1383 lepidotteri
-1384 lessicografia
+0 1235 ignivomo
+0 1236 ignominia
+0 1237 iipemania
+0 1238 illaqueare
+2 1239 illegittimo
+2 1240 illusorio
+2 1241 imbavagliare
+0 1242 imbeccherare
+2 1243 imbizzarrire
+0 1244 imborsacchiare
+2 1245 imbracciare
+0 1246 imenotteri
+0 1247 immarcescibile
+2 1248 immensurabile
+2 1249 immigrare
+2 1250 immutabile
+0 1251 imoscapo
+0 1252 impastocchiare
+2 1253 imperscrutabile
+1 1254 impiallacciare
+2 1255 imponderabile
+2 1256 imprescindibile
+0 1257 imputrescibile
+2 1258 inabissare
+2 1259 inaccessibile
+2 1260 inalienabile
+0 1261 inarpicare
+0 1262 inaspare
+0 1263 incatricchiare
+2 1264 incespicare
+2 1265 inchiesta
+0 1266 inciprignarsi
+2 1267 inclusivo
+2 1268 incommensurabile
+2 1269 incrollabile
+0 1270 incunabulo
+2 1271 indeclinabile
+2 1272 indispensabile
+2 1273 indolenzire
+2 1274 indulgente
+2 1275 inebriare
+2 1276 ineluttabile
+2 1277 inerente
+1 1278 inestricabile
+2 1279 inezia
+0 1280 infallantemente
+1 1281 infeltrire
+1 1282 infingardo
+2 1283 inflammatorio
+2 1284 infognarsi
+0 1285 infrascritto
+0 1286 infuturare
+2 1287 ingarbugliare
+2 1288 inghiottire
+2 1289 ingiusto
+0 1290 ingordina
+0 1291 ingraticchiare
+2 1292 ingurgitare
+2 1293 iniquo
+2 1294 iniziativo
+2 1295 innanzi
+2 1296 inofficioso
+2 1297 inopinabile
+2 1298 inorridire
+0 1299 inoscularsi
+2 1300 inquisitore
+2 1301 insaputa
+2 1302 insettologia
+2 1303 insieme
+2 1304 insorgere
+2 1305 inspessire
+2 1306 instantaneo
+2 1307 insurrezione
+2 1308 intabaccare
+2 1309 internazionale
+0 1310 intimpanire
+2 1311 intonacare
+1 1312 intrabiccolare
+0 1313 intumescenza
+0 1314 inuzzolire
+2 1315 invalido
+2 1316 invecchiare
+0 1317 invisibilio
+2 1318 involucro
+0 1319 inzafardare
+0 1320 inzipillare
+0 1321 ionodattico
+0 1322 ipecacuana
+0 1323 ipercenesia
+2 1324 ipocondria
+1 1325 ipodermico
+0 1326 ipogeo
+0 1327 ipostasi
+2 1328 ipotenusa
+0 1329 ippocentauro
+2 1330 ipsilon
+2 1331 irradiare
+0 1332 irrefragabile
+1 1333 irritrosire
+0 1334 irrubinare
+0 1335 isagoge
+1 1336 ischiatico
+0 1337 isocrono
+2 1338 isomeria
+2 1339 ispido
+2 1340 istaurare
+0 1341 istmici
+0 1342 istoriografo
+1 1343 ittiosauro
+0 1344 iuccicone
+0 1345 iungla
+0 1346 iusignuolo
+0 1347 laberinto
+2 1348 laboratorio
+0 1349 labrace
+0 1350 laburno
+0 1351 lacchezzo
+0 1352 laciniato
+2 1353 lacrimatoio
+2 1354 lagrima
+2 1355 lambiccare
+0 1356 lamdacismo
+2 1357 lampione
+0 1358 lanceolare
+2 1359 languiscente
+2 1360 lanificio
+2 1361 lanternaia
+0 1362 lanzichenecco
+2 1363 lapislazzuli
+2 1364 laringoscopio
+0 1365 lasagnino
+0 1366 laserpizio
+2 1367 lassativo
+0 1368 laticlavio
+0 1369 latomia
+0 1370 latrocinio
+2 1371 lattiginoso
+0 1372 laudemio
+0 1373 lavanese
+0 1374 lazzeretto
+2 1375 leccornia
+2 1376 leggiadro
+2 1377 legittimista
+0 1378 legnatico
+0 1379 lemnisco
+0 1380 lenocinio
+0 1381 lentischio
+2 1382 leopardo
+1 1383 lepidotteri
+2 1384 lessicografia
 1385 lettisternio
 1386 leucocefalo
 1387 levitongo
@@ -2365,104 +2365,104 @@
 2364 transustanziarsi
 2365 trapiantare
 2366 trascendentale
-2367 tratteggiare
-2368 traulismo
-2369 travestire
-2370 trebelliana
-2371 trelingaggio
-2372 trementina
-2373 treppiede
-2374 tributare
-2375 tricuspide
-2376 trierarco
-2377 triforcato
-2378 trigonometria
-2379 trillione
-2380 trimurti
-2381 trinchetto
-2382 trionfo
-2383 trippellare
-2384 trismegisto
-2385 trittongo
-2386 trivella
-2387 trocisco
-2388 troglodita
-2389 trucchiarsi
-2390 truffaldino
-2391 tuffolino
-2392 tumultuario
-2393 tuonare
-2394 turbolento
-2395 turcimanno
-2396 turribolo
-2397 tuttaflata
-2398 tuziorismo
-2399 ubicazione
-2400 uccidere
-2401 ufficiale
-2402 ultroneo
-2403 umbelliforme
-2404 umoristico
-2405 ungnanno
-2406 unicorno
-2407 universale
-2408 usucapire
-2409 usufrutto
-2410 utriaca
-2411 vaioloide
-2412 valetudinario
-2413 valvassoro
-2414 vanagloria
-2415 vangheggia
-2416 varicocele
-2417 vegghiare
-2418 velocipede
-2419 ventriloquo
-2420 verdea
-2421 verecondia
-2422 verghettato
-2423 verisimile
-2424 vermicolato
-2425 versicolore
-2426 verticillo
-2427 verzura
-2428 vescicaria
-2429 vespertillo
-2430 veterinario
-2431 vettovaglia
-2432 viandante
-2433 vibrato
-2434 vicedomino
-2435 vicissitudine
-2436 vigilia
-2437 vigliacco
-2438 vilipendere
-2439 vilucura
-2440 vinacciuolo
-2441 violoncello
-2442 virgulto
-2443 viripotente
-2444 visdomino
-2445 vitiligine
-2446 vituperare
-2447 vivaio
-2448 viviparo
-2449 vocabolo
-2450 vociferare
-2451 volatizzare
-2452 volcameria
-2453 volenteroso
-2454 volontario
-2455 volpigno
-2456 zaccarale
-2457 zaffardata
-2458 zamberlucco
-2459 zannichellia
-2460 zeccoli
-2461 zedoaria
-2462 zendado
-2463 zenzavero
-2464 zettovario
-2465 zibaldone
-2466 zolfanello
-2467 zuppa
+2 2367 tratteggiare
+0 2368 traulismo
+2 2369 travestire
+0 2370 trebelliana
+0 2371 trelingaggio
+0 2372 trementina
+2 2373 treppiede
+1 2374 tributare
+0 2375 tricuspide
+0 2376 trierarco
+0 2377 triforcato
+2 2378 trigonometria
+2 2379 trillione
+0 2380 trimurti
+0 2381 trinchetto
+2 2382 trionfo
+0 2383 trippellare
+0 2384 trismegisto
+0 2385 trittongo
+2 2386 trivella
+0 2387 trocisco
+2 2388 troglodita
+0 2389 trucchiarsi
+2 2390 truffaldino
+0 2391 tuffolino
+1 2392 tumultuario
+2 2393 tuonare
+2 2394 turbolento
+0 2395 turcimanno
+1 2396 turribolo
+0 2397 tuttaflata
+0 2398 tuziorismo
+2 2399 ubicazione
+2 2400 uccidere
+2 2401 ufficiale
+0 2402 ultroneo
+0 2403 umbelliforme
+2 2404 umoristico
+0 2405 ungnanno
+2 2406 unicorno
+2 2407 universale
+0 2408 usucapire
+2 2409 usufrutto
+0 2410 utriaca
+0 2411 vaioloide
+0 2412 valetudinario
+0 2413 valvassoro
+2 2414 vanagloria
+0 2415 vangheggia
+1 2416 varicocele
+0 2417 vegghiare
+2 2418 velocipede
+2 2419 ventriloquo
+0 2420 verdea
+0 2421 verecondia
+0 2422 verghettato
+0 2423 verisimile
+0 2424 vermicolato
+0 2425 versicolore
+0 2426 verticillo
+0 2427 verzura
+0 2428 vescicaria
+0 2429 vespertillo
+2 2430 veterinario
+2 2431 vettovaglia
+2 2432 viandante
+2 2433 vibrato
+0 2434 vicedomino
+2 2435 vicissitudine
+2 2436 vigilia
+2 2437 vigliacco
+1 2438 vilipendere
+0 2439 vilucura
+0 2440 vinacciuolo
+2 2441 violoncello
+2 2442 virgulto
+0 2443 viripotente
+0 2444 visdomino
+0 2445 vitiligine
+1 2446 vituperare
+2 2447 vivaio
+2 2448 viviparo
+2 2449 vocabolo
+2 2450 vociferare
+2 2451 volatizzare
+0 2452 volcameria
+2 2453 volenteroso
+2 2454 volontario
+2 2455 volpigno
+0 2456 zaccarale
+0 2457 zaffardata
+0 2458 zamberlucco
+0 2459 zannichellia
+1 2460 zeccoli
+0 2461 zedoaria
+0 2462 zendado
+0 2463 zenzavero
+0 2464 zettovario
+2 2465 zibaldone
+1 2466 zolfanello
+2 2467 zuppa
