@@ -1187,52 +1187,52 @@
 0 1186 gonfaloniere
 0 1187 gorgheggiare
 0 1188 gorzarino
-1189 gottolagnola
-1190 governare
-1191 gozzoviglia
-1192 gracilento
-1193 graduatoria
-1194 graffignare
-1195 gramolata
-1196 grancitello
-1197 grappolo
-1198 grattabugia
-1199 graveolente
-1200 grebiccio
-1201 grecista
-1202 gremignola
-1203 greppina
-1204 grifagno
-1205 grillotalpa
-1206 grimaldello
-1207 grispigno
-1208 grosseria
-1209 grottesco
-1210 grovigliolo
-1211 grumereccio
-1212 guadarella
-1213 gualchiera
-1214 guanciale
-1215 guardasigilli
-1216 guascherino
-1217 guattero
-1218 guazzabuglio
-1219 guercio
-1220 guidrigildo
-1221 guinzaglio
-1222 guttaperca
-1223 iadi
-1224 ibidem
-1225 icneumone
-1226 iconoclasta
-1227 icosaedro
-1228 idillio
-1229 idiosincrasia
-1230 idolatra
-1231 idraulica
-1232 idroterapia
-1233 iettatura
-1234 igiene
+0 1189 gottolagnola
+2 1190 governare
+1 1191 gozzoviglia
+0 1192 gracilento
+2 1193 graduatoria
+0 1194 graffignare
+2 1195 gramolata
+0 1196 grancitello
+2 1197 grappolo
+0 1198 grattabugia
+0 1199 graveolente
+0 1200 grebiccio
+0 1201 grecista
+0 1202 gremignola
+0 1203 greppina
+0 1204 grifagno
+1 1205 grillotalpa
+2 1206 grimaldello
+0 1207 grispigno
+0 1208 grosseria
+2 1209 grottesco
+0 1210 grovigliolo
+0 1211 grumereccio
+0 1212 guadarella
+0 1213 gualchiera
+2 1214 guanciale
+0 1215 guardasigilli
+0 1216 guascherino
+0 1217 guattero
+2 1218 guazzabuglio
+2 1219 guercio
+0 1220 guidrigildo
+2 1221 guinzaglio
+0 1222 guttaperca
+0 1223 iadi
+0 1224 ibidem
+0 1225 icneumone
+2 1226 iconoclasta
+0 1227 icosaedro
+2 1228 idillio
+1 1229 idiosincrasia
+2 1230 idolatra
+2 1231 idraulica
+0 1232 idroterapia
+2 1233 iettatura
+2 1234 igiene
 0 1235 ignivomo
 0 1236 ignominia
 0 1237 iipemania
@@ -1761,115 +1761,115 @@
 2 1760 perquisire
 2 1761 persecuzione
 0 1762 pertugiare
-1763 pervicace
-1764 pescheria
-1765 petitorio
-1766 petrosemolo
-1767 pettignone
-1768 petulante
-1769 peverello
-1770 pezzente
-1771 piaccianteo
-1772 piallaccio
-1773 piantaggine
-1774 piastringolo
-1775 piattaforma
-1776 piccheggiarsi
-1777 piedistallo
-1778 pieridi
-1779 pietrificare
-1780 pifferona
-1781 pillacchera
-1782 piluccare
-1783 pimpinnacolo
-1784 pinacoteca
-1785 pindarico
-1786 pinifero
-1787 pinzochero
-1788 pioppino
-1789 piovere
-1790 pipistrello
-1791 pirausta
-1792 piroconofobi
-1793 piruletta
-1794 pispinare
-1795 pistolese
-1796 piticchiarsi
-1797 pitonessa
-1798 pizzicagnolo
-1799 planisferio
-1800 platioftalmo
-1801 plebiscito
-1802 plenipotenza
-1803 pleonasmo
-1804 plumbeo
-1805 plurale
-1806 plutocrazia
-1807 pluviometro
-1808 pneumatica
-1809 podagra
-1810 polemarco
-1811 policlinico
-1812 pollicitazione
-1813 polpastrello
-1814 poltricchio
-1815 polviglio
-1816 pomeridiano
-1817 pompilo
-1818 pontefice
-1819 porfirite
-1820 portante
-1821 posliminio
-1822 postliminio
-1823 pottiniccio
-1824 pozzanghera
-1825 prassio
-1826 preambolo
-1827 preconizzare
-1828 predecessore
-1829 prefazione
-1830 pregiudicato
-1831 prelibazione
-1832 premeditare
-1833 preopinare
-1834 preponderare
-1835 prerogativa
-1836 presbiteriani
-1837 pretermettere
-1838 prevaricare
-1839 prezzemolo
-1840 priapismo
-1841 primogenito
-1842 principe
-1843 priori
-1844 pritaneo
-1845 privativa
-1846 proboscide
-1847 procrastinare
-1848 profumatamente
-1849 prognostico
-1850 proiettile
-1851 prolegomeni
-1852 promontorio
-1853 pronunciamento
-1854 propugnacolo
-1855 prosopografia
-1856 protonotario
-1857 provvisorio
-1858 pseudonimo
-1859 psichiatria
-1860 psittaco
-1861 pterodattilo
-1862 ptisana
-1863 pubblicano
-1864 pudibondo
-1865 puerpera
-1866 puledro
-1867 pullulare
-1868 pulverulento
-1869 punteruolo
-1870 punzone
-1871 purificazione
+0 1763 pervicace
+2 1764 pescheria
+0 1765 petitorio
+0 1766 petrosemolo
+0 1767 pettignone
+2 1768 petulante
+0 1769 peverello
+2 1770 pezzente
+0 1771 piaccianteo
+0 1772 piallaccio
+0 1773 piantaggine
+0 1774 piastringolo
+2 1775 piattaforma
+0 1776 piccheggiarsi
+2 1777 piedistallo
+0 1778 pieridi
+2 1779 pietrificare
+0 1780 pifferona
+0 1781 pillacchera
+0 1782 piluccare
+0 1783 pimpinnacolo
+2 1784 pinacoteca
+0 1785 pindarico
+0 1786 pinifero
+0 1787 pinzochero
+0 1788 pioppino
+2 1789 piovere
+2 1790 pipistrello
+0 1791 pirausta
+0 1792 piroconofobi
+0 1793 piruletta
+0 1794 pispinare
+0 1795 pistolese
+0 1796 piticchiarsi
+2 1797 pitonessa
+0 1798 pizzicagnolo
+0 1799 planisferio
+0 1800 platioftalmo
+2 1801 plebiscito
+0 1802 plenipotenza
+0 1803 pleonasmo
+1 1804 plumbeo
+2 1805 plurale
+0 1806 plutocrazia
+2 1807 pluviometro
+2 1808 pneumatica
+0 1809 podagra
+0 1810 polemarco
+2 1811 policlinico
+0 1812 pollicitazione
+2 1813 polpastrello
+0 1814 poltricchio
+0 1815 polviglio
+2 1816 pomeridiano
+0 1817 pompilo
+2 1818 pontefice
+0 1819 porfirite
+2 1820 portante
+0 1821 posliminio
+0 1822 postliminio
+0 1823 pottiniccio
+2 1824 pozzanghera
+0 1825 prassio
+2 1826 preambolo
+0 1827 preconizzare
+2 1828 predecessore
+2 1829 prefazione
+2 1830 pregiudicato
+0 1831 prelibazione
+2 1832 premeditare
+0 1833 preopinare
+2 1834 preponderare
+2 1835 prerogativa
+1 1836 presbiteriani
+0 1837 pretermettere
+2 1838 prevaricare
+2 1839 prezzemolo
+0 1840 priapismo
+2 1841 primogenito
+2 1842 principe
+2 1843 priori
+0 1844 pritaneo
+0 1845 privativa
+2 1846 proboscide
+1 1847 procrastinare
+2 1848 profumatamente
+2 1849 prognostico
+2 1850 proiettile
+0 1851 prolegomeni
+2 1852 promontorio
+2 1853 pronunciamento
+0 1854 propugnacolo
+0 1855 prosopografia
+0 1856 protonotario
+2 1857 provvisorio
+2 1858 pseudonimo
+2 1859 psichiatria
+0 1860 psittaco
+2 1861 pterodattilo
+0 1862 ptisana
+2 1863 pubblicano
+0 1864 pudibondo
+0 1865 puerpera
+2 1866 puledro
+0 1867 pullulare
+0 1868 pulverulento
+2 1869 punteruolo
+2 1870 punzone
+2 1871 purificazione
 1872 purpureo
 1873 pusillanime
 1874 putrilagine
