@@ -124,19 +124,19 @@ def main():
 
     print 'fourfilter len:', len(four)
 
-    with open(fname+'-(%s-%d)' % parameters,'w') as f:
+    with open(fname+'-%s-%d' % parameters,'w') as f:
         f.writelines([x+'\n' for x in sorted(wwww)])
 
-    with open(fname+'-(%s-%d).4' % parameters,'w') as f:
+    with open(fname+'-%s-%d.4' % parameters,'w') as f:
         f.writelines([x+'\n' for x in sorted(four)])
 
     '''
     for four_as_par in [3,5]:
-        with open((fname+'-(%s-%d).'+str(four_as_par)) % parameters,'w') as f:
+        with open((fname+'-%s-%d.'+str(four_as_par)) % parameters,'w') as f:
             f.writelines([x+'\n' for x in sorted(fourfilter(wwww,four_as_par))])
     '''
 
-    print 'Output:',fname+'-(%s-%d)'% parameters
+    print 'Output:',fname+'-%s-%d'% parameters
 
 if __name__=="__main__":
     main()
