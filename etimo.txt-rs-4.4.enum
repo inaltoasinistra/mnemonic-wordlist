@@ -62,184 +62,184 @@
 2 61 aerodinamica
 0 62 aferesi
 0 63 affastellare
-64 affettazione
-65 affievolire
-66 afflizione
-67 affrancare
-68 affusto
-69 aforismo
-70 afrodisiaco
-71 agallato
-72 agarico
-73 agemina
-74 agenda
-75 agevole
-76 aggavignare
-77 aggecchire
-78 agghiaccio
-79 aggiudicare
-80 agglomerare
-81 aggomitolare
-82 aggrovigliarsi
-83 aghirone
-84 agiografo
-85 agnello
-86 agnocasto
-87 agonistica
-88 agostaro
-89 agreste
-90 agrimensura
-91 agronomia
-92 agucchia
-93 agugella
-94 aguzzare
-95 ailante
-96 aiuola
-97 alabastro
-98 alaggio
-99 alambicco
-100 albanella
-101 alberese
-102 albinaggio
-103 albugine
-104 alcali
-105 alchechengi
-106 aldermano
-107 aleatorio
-108 alessifarmaco
-109 aleteologia
-110 alfabeto
-111 alfiere
-112 algebra
-113 algoritmo
-114 alguazil
-115 alidada
-116 alienare
-117 aligusta
-118 allampanare
-119 alleccornire
-120 allitterazione
-121 alloppicare
-122 allucignolare
-123 almanaccare
-124 alopecia
-125 altalena
-126 alterigia
-127 altipiano
-128 amadriade
-129 amalgama
-130 amandolata
-131 amareggiare
-132 amatista
-133 amaurosi
-134 amazzone
-135 ambasciatore
-136 ambilogia
-137 ambulacro
-138 ammassicciare
-139 ammenicolo
-140 amministrare
-141 ammonticchiare
-142 ammuricciare
-143 amoerre
-144 amorfo
-145 amovibile
-146 ampelografia
-147 amplificare
-148 ampolla
-149 anabattista
-150 anacronismo
-151 anadiplosi
-152 anagallide
-153 analisi
-154 anatocismo
-155 anchilosi
-156 ancilotomia
-157 ancroia
-158 andazzo
-159 androgino
-160 aneddoto
-161 anemoscopio
-162 anestesia
-163 aneurisma
-164 anfesibena
-165 anfibologia
-166 anflzioni
-167 angelo
-168 angheria
-169 angiologia
-170 anglomania
-171 anguicrinito
-172 animoso
-173 anitrina
-174 annaffiare
-175 anneghittire
-176 anniversario
-177 annotare
-178 annunziata
-179 anormale
-180 anrmografia
-181 anseatico
-182 antagonista
-183 antelmintico
-184 antimeridiano
-185 antonomasia
-186 antropometria
-187 apirettico
-188 apocalisse
-189 apoftegma
-190 apologetico
-191 apoplessia
-192 aposiopesi
-193 apoteosi
-194 appalparellarsi
-195 appellativo
-196 appilistrarsi
-197 applaudire
-198 appollaiarsi
-199 approvvisionare
-200 aracnoide
-201 araldica
-202 arbitrio
-203 arborescente
-204 archimandrita
-205 arciconsolo
-206 arcoreggiare
-207 ardesia
-208 ardiglione
-209 arefatto
-210 areostato
-211 arfasatto
-212 argnone
-213 argomento
-214 ariano
-215 arimdinaceo
-216 aristocrazia
-217 aritmetica
-218 arlecchino
-219 armadillo
-220 armellino
-221 armistizio
-222 arnica
-223 arrabbiaticcio
-224 arrembaggio
-225 arringa
-226 arrovellare
-227 arruffianare
-228 arsenico
-229 artiglieria
-230 arzavola
-231 arzigogolo
-232 ascendente
-233 ascialone
-234 ascrittizio
-235 asfodelo
-236 asparagio
-237 aspersorio
-238 assaettare
-239 assembramento
-240 assidersi
-241 assottigliare
+0 64 affettazione
+2 65 affievolire
+1 66 afflizione
+2 67 affrancare
+0 68 affusto
+2 69 aforismo
+1 70 afrodisiaco
+0 71 agallato
+0 72 agarico
+0 73 agemina
+2 74 agenda
+2 75 agevole
+0 76 aggavignare
+0 77 aggecchire
+0 78 agghiaccio
+2 79 aggiudicare
+1 80 agglomerare
+0 81 aggomitolare
+1 82 aggrovigliarsi
+0 83 aghirone
+0 84 agiografo
+2 85 agnello
+0 86 agnocasto
+0 87 agonistica
+0 88 agostaro
+0 89 agreste
+0 90 agrimensura
+2 91 agronomia
+0 92 agucchia
+0 93 agugella
+2 94 aguzzare
+0 95 ailante
+2 96 aiuola
+2 97 alabastro
+0 98 alaggio
+2 99 alambicco
+0 100 albanella
+0 101 alberese
+0 102 albinaggio
+0 103 albugine
+0 104 alcali
+0 105 alchechengi
+0 106 aldermano
+2 107 aleatorio
+0 108 alessifarmaco
+0 109 aleteologia
+2 110 alfabeto
+2 111 alfiere
+2 112 algebra
+2 113 algoritmo
+0 114 alguazil
+0 115 alidada
+2 116 alienare
+0 117 aligusta
+0 118 allampanare
+0 119 alleccornire
+2 120 allitterazione
+0 121 alloppicare
+0 122 allucignolare
+0 123 almanaccare
+0 124 alopecia
+2 125 altalena
+0 126 alterigia
+2 127 altipiano
+0 128 amadriade
+2 129 amalgama
+0 130 amandolata
+2 131 amareggiare
+0 132 amatista
+0 133 amaurosi
+2 134 amazzone
+2 135 ambasciatore
+0 136 ambilogia
+0 137 ambulacro
+0 138 ammassicciare
+0 139 ammenicolo
+2 140 amministrare
+0 141 ammonticchiare
+0 142 ammuricciare
+0 143 amoerre
+2 144 amorfo
+1 145 amovibile
+0 146 ampelografia
+2 147 amplificare
+2 148 ampolla
+0 149 anabattista
+2 150 anacronismo
+0 151 anadiplosi
+0 152 anagallide
+2 153 analisi
+0 154 anatocismo
+0 155 anchilosi
+0 156 ancilotomia
+0 157 ancroia
+2 158 andazzo
+0 159 androgino
+2 160 aneddoto
+0 161 anemoscopio
+2 162 anestesia
+0 163 aneurisma
+0 164 anfesibena
+0 165 anfibologia
+0 166 anflzioni
+2 167 angelo
+2 168 angheria
+0 169 angiologia
+0 170 anglomania
+0 171 anguicrinito
+2 172 animoso
+0 173 anitrina
+2 174 annaffiare
+0 175 anneghittire
+2 176 anniversario
+2 177 annotare
+2 178 annunziata
+2 179 anormale
+0 180 anrmografia
+0 181 anseatico
+2 182 antagonista
+0 183 antelmintico
+2 184 antimeridiano
+2 185 antonomasia
+0 186 antropometria
+0 187 apirettico
+2 188 apocalisse
+0 189 apoftegma
+0 190 apologetico
+0 191 apoplessia
+0 192 aposiopesi
+2 193 apoteosi
+0 194 appalparellarsi
+2 195 appellativo
+0 196 appilistrarsi
+2 197 applaudire
+0 198 appollaiarsi
+0 199 approvvisionare
+0 200 aracnoide
+1 201 araldica
+2 202 arbitrio
+0 203 arborescente
+0 204 archimandrita
+0 205 arciconsolo
+0 206 arcoreggiare
+2 207 ardesia
+0 208 ardiglione
+0 209 arefatto
+2 210 areostato
+0 211 arfasatto
+0 212 argnone
+2 213 argomento
+0 214 ariano
+0 215 arimdinaceo
+2 216 aristocrazia
+2 217 aritmetica
+2 218 arlecchino
+2 219 armadillo
+2 220 armellino
+2 221 armistizio
+0 222 arnica
+0 223 arrabbiaticcio
+2 224 arrembaggio
+2 225 arringa
+2 226 arrovellare
+0 227 arruffianare
+2 228 arsenico
+2 229 artiglieria
+0 230 arzavola
+0 231 arzigogolo
+2 232 ascendente
+0 233 ascialone
+0 234 ascrittizio
+0 235 asfodelo
+2 236 asparagio
+0 237 aspersorio
+0 238 assaettare
+2 239 assembramento
+2 240 assidersi
+2 241 assottigliare
 242 assunzione
 243 asterisco
 244 astinenza
