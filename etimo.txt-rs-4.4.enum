@@ -1,7 +1,7 @@
 2 0 abaco
 0 1 abadessa
 0 2 abballucciare
-0 3 abbecedario
+1 3 abbecedario
 0 4 abbiosciare
 0 5 abbozzacchire
 0 6 abbriccagnolo
@@ -13,10 +13,10 @@
 0 12 abigeato
 2 13 abilitare
 2 14 abitudine
-1 15 abluzione
+0 15 abluzione
 2 16 aborigene
 0 17 abrostino
-2 18 abside
+1 18 abside
 0 19 acanturo
 0 20 acatalettico
 0 21 accatricchiarsi
@@ -26,22 +26,22 @@
 2 25 accondiscendere
 2 26 accreditare
 2 27 accusativo
-1 28 acefalo
-2 29 acerrimo
+0 28 acefalo
+1 29 acerrimo
 0 30 acetabolo
 0 31 achille
 0 32 aciculare
 0 33 acquacchiarsi
 0 34 acrimonia
-2 35 acromatico
+1 35 acromatico
 2 36 aculeo
 2 37 acustica
 0 38 adacquare
 2 39 adagiare
-2 40 adamantino
+1 40 adamantino
 0 41 addarsi
 0 42 addentellato
-2 43 addiaccio
+0 43 addiaccio
 2 44 addormentare
 0 45 adelfi
 2 46 adempire
@@ -57,8 +57,8 @@
 1 56 adulterare
 0 57 adunghiare
 0 58 aeonzia
-2 59 aeorostatica
-1 60 aereonauta
+1 59 aeorostatica
+2 60 aereonauta
 2 61 aerodinamica
 0 62 aferesi
 0 63 affastellare
@@ -67,8 +67,8 @@
 1 66 afflizione
 2 67 affrancare
 0 68 affusto
-2 69 aforismo
-1 70 afrodisiaco
+0 69 aforismo
+2 70 afrodisiaco
 0 71 agallato
 0 72 agarico
 0 73 agemina
@@ -80,24 +80,24 @@
 2 79 aggiudicare
 1 80 agglomerare
 0 81 aggomitolare
-1 82 aggrovigliarsi
+2 82 aggrovigliarsi
 0 83 aghirone
 0 84 agiografo
 2 85 agnello
 0 86 agnocasto
-0 87 agonistica
+2 87 agonistica
 0 88 agostaro
 0 89 agreste
 0 90 agrimensura
-2 91 agronomia
+1 91 agronomia
 0 92 agucchia
 0 93 agugella
 2 94 aguzzare
 0 95 ailante
 2 96 aiuola
-2 97 alabastro
+1 97 alabastro
 0 98 alaggio
-2 99 alambicco
+1 99 alambicco
 0 100 albanella
 0 101 alberese
 0 102 albinaggio
@@ -105,7 +105,7 @@
 0 104 alcali
 0 105 alchechengi
 0 106 aldermano
-2 107 aleatorio
+1 107 aleatorio
 0 108 alessifarmaco
 0 109 aleteologia
 2 110 alfabeto
@@ -240,430 +240,430 @@
 2 239 assembramento
 2 240 assidersi
 2 241 assottigliare
-242 assunzione
-243 asterisco
-244 astinenza
-245 astrologare
-246 atmosfera
-247 atrabiliare
-248 atrofia
-249 attanagliare
-250 attentare
-251 atticciato
-252 attorcigliare
-253 attribuzione
-254 aucupio
-255 augustano
-256 aureola
-257 auspicato
-258 austero
-259 autobiografia
-260 avanguardia
-261 averusto
-262 avoltoio
-263 avvantaggiare
-264 avventizio
-265 avviticchiare
-266 avvoltolare
-267 azimut
-268 azzaruola
-269 azzeccare
-270 azzurro
-271 babaiola
-272 babbalocco
-273 bacalare
-274 bacchillone
-275 bacheca
-276 baciucchiare
-277 badaluccare
-278 bagattella
-279 bagliore
-280 bagnomaria
-281 baiadera
-282 baiuca
-283 balaustro
-284 balbettare
-285 baldacchino
-286 balestruccio
-287 ballatoio
-288 balneario
-289 balsamo
-290 balteo
-291 baluardo
-292 balzelloni
-293 bambocciata
-294 banchiere
-295 bandoliera
-296 baobab
-297 barattiere
-298 barbabietola
-299 barcamenare
-300 bardatura
-301 barellare
-302 bargagnare
-303 baritono
-304 barlocchio
-305 barnabita
-306 baroccio
-307 baruffa
-308 basilica
-309 basoffia
-310 bassorilievo
-311 bastaccone
-312 batassare
-313 batistero
-314 batocchio
-315 batracomiomachia
-316 battaglione
-317 batuffolo
-318 bazzecola
-319 beatificare
-320 beccheggiare
-321 becero
-322 bedeguar
-323 befana
-324 beffare
-325 begardo
-326 begonia
-327 belligerante
-328 belvedere
-329 beneficenza
-330 bengalino
-331 bercilocchio
-332 bergamotta
-333 bericocolo
-334 berlingaccio
-335 bernecche
-336 berroviere
-337 bertabello
-338 bestemmia
-339 bettonica
-340 biacco
-341 biancomangiare
-342 biasimare
-343 bibbia
-344 bibliografia
-345 bicciacuto
-346 biciancole
-347 biennio
-348 bietola
-349 biforcarsi
-350 bifronte
-351 bighellone
-352 bigiottiere
-353 biglietto
-354 bignetto
-355 bigollone
-356 bilanciare
-357 biliemme
-358 bimetallismo
-359 bimmolle
-360 bipartire
-361 bipede
-362 biqquadro
-363 birichino
-364 bisbetico
-365 bischiccio
-366 bisdosso
-367 bisestare
-368 bismuto
-369 bisnipote
-370 bisogna
-371 bisticciare
-372 blasfemia
-373 blefarite
-374 blenorragia
-375 boa
-376 bocciuolo
-377 bocellato
-378 bodoniano
-379 bofonchiare
-380 bolcione
-381 bolimia
-382 bollettino
-383 bonciarella
-384 bonificare
-385 borbogliare
-386 bordonale
-387 borgognotta
-388 borniolo
-389 borraccina
-390 botanica
-391 botolo
-392 bottacciuolo
-393 bozzacchio
-394 brachicefalo
-395 branchia
-396 brasile
-397 brattea
-398 brefotrofo
-399 bregma
-400 brescia
-401 brettine
-402 breviario
-403 briccolato
-404 briffalda
-405 brigantino
-406 brindaccola
-407 brivido
-408 brobbio
-409 broccardico
-410 brontolare
-411 brucolo
-412 brughiera
-413 bruire
-414 brulichio
-415 bruschette
-416 bruzzaglia
-417 buaggine
-418 bubbolare
-419 buccolica
-420 bucherare
-421 bucintoro
-422 budlenflone
-423 budriere
-424 buggiancare
-425 bugigatto
-426 buglossa
-427 bulevardo
-428 burchiellesco
-429 burgravio
-430 burocratico
-431 busecchia
-432 busnaga
-433 bussolante
-434 butiflone
-435 cabaletta
-436 cabiri
-437 cabotaggio
-438 caccabaldole
-439 cachettico
-440 caclcco
-441 cacofonia
-442 cacume
-443 cadavere
-444 cadmio
-445 cadrega
-446 cafaggiaio
-447 caffettano
-448 cafisso
-449 cagnara
-450 caimacan
-451 calabresella
-452 calbigia
-453 calcistruzzo
-454 calderotto
-455 calendimaggio
-456 calibografia
-457 calligrafia
-458 calomelano
-459 calumare
-460 camaldolense
-461 cambellotto
-462 camerata
-463 camiciuola
-464 campigiana
-465 camuffare
-466 canapicchia
-467 cancelliere
-468 candescente
-469 canefora
-470 cangiaro
-471 cannocchiale
-472 canonizzare
-473 cantimplora
-474 caparbio
-475 capestreria
-476 capitolazione
-477 capovolgere
-478 capperuccio
-479 capruggine
-480 caravanserraglio
-481 carbonari
-482 carcinoma
-483 cardialgia
-484 caricatura
-485 carminativo
-486 carnesciale
-487 carolina
-488 carpentiere
-489 carreggiata
-490 cartagloria
-491 cascaticcio
-492 casipola
-493 cassapanca
-494 castrametazione
-495 catafratto
-496 catecumeno
-497 catilinaria
-498 catottrica
-499 catriosso
-500 cattedrale
-501 caudatario
-502 cavalleggiere
-503 cavezzo
-504 ceciarello
-505 cediglia
-506 cedronella
-507 cefalopodi
-508 celebre
-509 celidonia
-510 cellerario
-511 cemento
-512 cempennare
-513 cenotaffio
-514 censimento
-515 centrifugo
-516 ceppicene
-517 ceralacca
-518 cerbottana
-519 cerfoglio
-520 cerniera
-521 ceroferario
-522 cerpellone
-523 cerretano
-524 cerusico
-525 cervice
-526 cerziorare
-527 cesura
-528 cetaceo
-529 cetriuolo
-530 chachessia
-531 cheirotteri
-532 chelidona
-533 chepi
-534 chermessa
-535 chiacchierare
-536 chicchera
-537 chiesupula
-538 chilogrammo
-539 chimico
-540 chincaglie
-541 chioccolare
-542 chirografario
-543 chiurlare
-544 ciabare
-545 cialtrone
-546 ciampanelle
-547 cianciafruscola
-548 ciarlatano
-549 ciascheduno
-550 cibo
-551 cicatrice
-552 cicerbita
-553 ciclamino
-554 cicoria
-555 cigrigna
-556 cilandra
-557 cilecca
-558 ciliegio
-559 cimbottolare
-560 ciminiera
-561 cincischiare
-562 cinematografo
-563 cinguettare
-564 cinocefalo
-565 cinquanta
-566 cioccolata
-567 cioncare
-568 ciottolo
-569 cipollaccio
-570 cipriotto
-571 circonlocuzione
-572 cirindello
-573 ciropedia
-574 ciruglio
-575 cisalpino
-576 ciscranna
-577 cispadano
-578 cissoide
-579 cisterciense
-580 citaredo
-581 citeriore
-582 ciuffolotto
-583 ciurmaglia
-584 civile
-585 clandestino
-586 classicismo
-587 claustrale
-588 clavicembalo
-589 cleptomania
-590 clessidra
-591 climaterico
-592 clitoride
-593 coacervare
-594 coadiutore
-595 coagulare
-596 coalescenza
-597 coartare
-598 cocciniglia
-599 coclearia
-600 cocomero
-601 cocuzza
-602 codarozzo
-603 codibugnolo
-604 coefficiente
-605 coercizione
-606 cogitazione
-607 cognizione
-608 coincidere
-609 colaticcio
-610 colchico
-611 colendissimo
-612 collaborare
-613 colombicidio
-614 colubrina
-615 comandolo
-616 combnstibile
-617 comitato
-618 commendatizio
-619 comodino
-620 comprecazione
-621 comunicativa
-622 concupiscenza
-623 condizionare
-624 conestabile
-625 conflagrazione
-626 conglutinare
-627 connotato
-628 conquassare
-629 consustanziazione
-630 contrammiraglio
-631 convalescente
-632 coorte
-633 copertoia
-634 copparosa
-635 coprolito
-636 copulativo
-637 coratella
-638 corbezzola
-639 cordigliera
-640 coriandolo
-641 cornacchia
-642 coronamento
-643 corpuscolo
-644 correspettivo
-645 corsia
-646 corteggiare
-647 coscienza
-648 cosecante
-649 cosmopolita
-650 costellazione
-651 cotangente
-652 coteghino
-653 cotiledone
-654 cotticchiare
-655 coturnice
-656 covaccio
-657 cravatta
-658 creanza
-659 credenziale
-660 cremisi
-661 creosoto
-662 crepolare
-663 crespignolo
-664 crialeso
-665 crimenlese
+2 242 assunzione
+2 243 asterisco
+2 244 astinenza
+1 245 astrologare
+2 246 atmosfera
+0 247 atrabiliare
+1 248 atrofia
+1 249 attanagliare
+2 250 attentare
+0 251 atticciato
+2 252 attorcigliare
+1 253 attribuzione
+0 254 aucupio
+0 255 augustano
+2 256 aureola
+1 257 auspicato
+2 258 austero
+2 259 autobiografia
+2 260 avanguardia
+0 261 averusto
+0 262 avoltoio
+2 263 avvantaggiare
+0 264 avventizio
+0 265 avviticchiare
+1 266 avvoltolare
+1 267 azimut
+0 268 azzaruola
+2 269 azzeccare
+2 270 azzurro
+0 271 babaiola
+0 272 babbalocco
+0 273 bacalare
+0 274 bacchillone
+2 275 bacheca
+1 276 baciucchiare
+0 277 badaluccare
+0 278 bagattella
+2 279 bagliore
+1 280 bagnomaria
+0 281 baiadera
+0 282 baiuca
+0 283 balaustro
+2 284 balbettare
+2 285 baldacchino
+0 286 balestruccio
+0 287 ballatoio
+0 288 balneario
+2 289 balsamo
+0 290 balteo
+2 291 baluardo
+0 292 balzelloni
+0 293 bambocciata
+2 294 banchiere
+0 295 bandoliera
+2 296 baobab
+0 297 barattiere
+2 298 barbabietola
+0 299 barcamenare
+1 300 bardatura
+0 301 barellare
+0 302 bargagnare
+1 303 baritono
+0 304 barlocchio
+0 305 barnabita
+0 306 baroccio
+1 307 baruffa
+2 308 basilica
+0 309 basoffia
+2 310 bassorilievo
+0 311 bastaccone
+0 312 batassare
+0 313 batistero
+1 314 batocchio
+0 315 batracomiomachia
+2 316 battaglione
+2 317 batuffolo
+1 318 bazzecola
+2 319 beatificare
+0 320 beccheggiare
+0 321 becero
+0 322 bedeguar
+2 323 befana
+2 324 beffare
+0 325 begardo
+2 326 begonia
+0 327 belligerante
+2 328 belvedere
+2 329 beneficenza
+1 330 bengalino
+0 331 bercilocchio
+0 332 bergamotta
+0 333 bericocolo
+0 334 berlingaccio
+0 335 bernecche
+0 336 berroviere
+0 337 bertabello
+1 338 bestemmia
+0 339 bettonica
+0 340 biacco
+0 341 biancomangiare
+2 342 biasimare
+2 343 bibbia
+2 344 bibliografia
+0 345 bicciacuto
+0 346 biciancole
+2 347 biennio
+1 348 bietola
+2 349 biforcarsi
+0 350 bifronte
+1 351 bighellone
+0 352 bigiottiere
+2 353 biglietto
+0 354 bignetto
+0 355 bigollone
+2 356 bilanciare
+0 357 biliemme
+0 358 bimetallismo
+0 359 bimmolle
+0 360 bipartire
+2 361 bipede
+0 362 biqquadro
+2 363 birichino
+2 364 bisbetico
+0 365 bischiccio
+0 366 bisdosso
+0 367 bisestare
+0 368 bismuto
+2 369 bisnipote
+2 370 bisogna
+2 371 bisticciare
+1 372 blasfemia
+0 373 blefarite
+0 374 blenorragia
+2 375 boa
+2 376 bocciuolo
+0 377 bocellato
+0 378 bodoniano
+2 379 bofonchiare
+0 380 bolcione
+0 381 bolimia
+2 382 bollettino
+0 383 bonciarella
+2 384 bonificare
+0 385 borbogliare
+0 386 bordonale
+0 387 borgognotta
+0 388 borniolo
+0 389 borraccina
+2 390 botanica
+0 391 botolo
+0 392 bottacciuolo
+0 393 bozzacchio
+0 394 brachicefalo
+2 395 branchia
+0 396 brasile
+0 397 brattea
+0 398 brefotrofo
+0 399 bregma
+0 400 brescia
+0 401 brettine
+2 402 breviario
+0 403 briccolato
+0 404 briffalda
+0 405 brigantino
+0 406 brindaccola
+2 407 brivido
+0 408 brobbio
+0 409 broccardico
+2 410 brontolare
+0 411 brucolo
+1 412 brughiera
+0 413 bruire
+0 414 brulichio
+2 415 bruschette
+0 416 bruzzaglia
+0 417 buaggine
+0 418 bubbolare
+0 419 buccolica
+0 420 bucherare
+0 421 bucintoro
+0 422 budlenflone
+0 423 budriere
+0 424 buggiancare
+0 425 bugigatto
+0 426 buglossa
+0 427 bulevardo
+0 428 burchiellesco
+0 429 burgravio
+1 430 burocratico
+0 431 busecchia
+0 432 busnaga
+0 433 bussolante
+0 434 butiflone
+0 435 cabaletta
+0 436 cabiri
+0 437 cabotaggio
+0 438 caccabaldole
+0 439 cachettico
+0 440 caclcco
+1 441 cacofonia
+0 442 cacume
+2 443 cadavere
+1 444 cadmio
+0 445 cadrega
+0 446 cafaggiaio
+0 447 caffettano
+0 448 cafisso
+1 449 cagnara
+0 450 caimacan
+0 451 calabresella
+0 452 calbigia
+0 453 calcistruzzo
+0 454 calderotto
+1 455 calendimaggio
+0 456 calibografia
+2 457 calligrafia
+0 458 calomelano
+0 459 calumare
+0 460 camaldolense
+0 461 cambellotto
+2 462 camerata
+0 463 camiciuola
+0 464 campigiana
+2 465 camuffare
+0 466 canapicchia
+2 467 cancelliere
+1 468 candescente
+0 469 canefora
+0 470 cangiaro
+2 471 cannocchiale
+0 472 canonizzare
+0 473 cantimplora
+2 474 caparbio
+0 475 capestreria
+1 476 capitolazione
+2 477 capovolgere
+0 478 capperuccio
+0 479 capruggine
+0 480 caravanserraglio
+1 481 carbonari
+1 482 carcinoma
+0 483 cardialgia
+2 484 caricatura
+0 485 carminativo
+0 486 carnesciale
+0 487 carolina
+2 488 carpentiere
+2 489 carreggiata
+0 490 cartagloria
+0 491 cascaticcio
+0 492 casipola
+2 493 cassapanca
+0 494 castrametazione
+0 495 catafratto
+1 496 catecumeno
+0 497 catilinaria
+0 498 catottrica
+0 499 catriosso
+2 500 cattedrale
+0 501 caudatario
+0 502 cavalleggiere
+0 503 cavezzo
+0 504 ceciarello
+0 505 cediglia
+0 506 cedronella
+0 507 cefalopodi
+2 508 celebre
+0 509 celidonia
+0 510 cellerario
+2 511 cemento
+0 512 cempennare
+0 513 cenotaffio
+2 514 censimento
+1 515 centrifugo
+0 516 ceppicene
+1 517 ceralacca
+2 518 cerbottana
+0 519 cerfoglio
+2 520 cerniera
+0 521 ceroferario
+0 522 cerpellone
+0 523 cerretano
+0 524 cerusico
+0 525 cervice
+0 526 cerziorare
+1 527 cesura
+2 528 cetaceo
+0 529 cetriuolo
+0 530 chachessia
+0 531 cheirotteri
+0 532 chelidona
+0 533 chepi
+0 534 chermessa
+2 535 chiacchierare
+1 536 chicchera
+0 537 chiesupula
+2 538 chilogrammo
+2 539 chimico
+1 540 chincaglie
+0 541 chioccolare
+0 542 chirografario
+0 543 chiurlare
+0 544 ciabare
+2 545 cialtrone
+0 546 ciampanelle
+0 547 cianciafruscola
+2 548 ciarlatano
+0 549 ciascheduno
+2 550 cibo
+2 551 cicatrice
+0 552 cicerbita
+2 553 ciclamino
+2 554 cicoria
+0 555 cigrigna
+0 556 cilandra
+1 557 cilecca
+2 558 ciliegio
+0 559 cimbottolare
+2 560 ciminiera
+1 561 cincischiare
+2 562 cinematografo
+2 563 cinguettare
+0 564 cinocefalo
+2 565 cinquanta
+2 566 cioccolata
+0 567 cioncare
+2 568 ciottolo
+0 569 cipollaccio
+0 570 cipriotto
+0 571 circonlocuzione
+0 572 cirindello
+0 573 ciropedia
+0 574 ciruglio
+0 575 cisalpino
+0 576 ciscranna
+0 577 cispadano
+0 578 cissoide
+0 579 cisterciense
+0 580 citaredo
+0 581 citeriore
+0 582 ciuffolotto
+1 583 ciurmaglia
+2 584 civile
+2 585 clandestino
+2 586 classicismo
+1 587 claustrale
+2 588 clavicembalo
+1 589 cleptomania
+2 590 clessidra
+0 591 climaterico
+0 592 clitoride
+0 593 coacervare
+0 594 coadiutore
+1 595 coagulare
+0 596 coalescenza
+0 597 coartare
+1 598 cocciniglia
+0 599 coclearia
+2 600 cocomero
+0 601 cocuzza
+0 602 codarozzo
+0 603 codibugnolo
+1 604 coefficiente
+1 605 coercizione
+1 606 cogitazione
+2 607 cognizione
+2 608 coincidere
+1 609 colaticcio
+0 610 colchico
+0 611 colendissimo
+2 612 collaborare
+0 613 colombicidio
+0 614 colubrina
+0 615 comandolo
+0 616 combnstibile
+2 617 comitato
+0 618 commendatizio
+2 619 comodino
+0 620 comprecazione
+2 621 comunicativa
+0 622 concupiscenza
+2 623 condizionare
+0 624 conestabile
+0 625 conflagrazione
+0 626 conglutinare
+2 627 connotato
+0 628 conquassare
+0 629 consustanziazione
+0 630 contrammiraglio
+2 631 convalescente
+0 632 coorte
+0 633 copertoia
+0 634 copparosa
+0 635 coprolito
+0 636 copulativo
+0 637 coratella
+0 638 corbezzola
+2 639 cordigliera
+2 640 coriandolo
+2 641 cornacchia
+2 642 coronamento
+0 643 corpuscolo
+0 644 correspettivo
+2 645 corsia
+2 646 corteggiare
+2 647 coscienza
+0 648 cosecante
+1 649 cosmopolita
+2 650 costellazione
+0 651 cotangente
+0 652 coteghino
+1 653 cotiledone
+0 654 cotticchiare
+0 655 coturnice
+0 656 covaccio
+2 657 cravatta
+0 658 creanza
+1 659 credenziale
+0 660 cremisi
+0 661 creosoto
+0 662 crepolare
+0 663 crespignolo
+0 664 crialeso
+0 665 crimenlese
 0 666 criptogamo
 2 667 crisantemo
 2 668 crittografia
