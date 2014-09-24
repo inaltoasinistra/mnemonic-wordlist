@@ -85,7 +85,7 @@ def fourfilter(www,four):
     out = []
     for v in fourgroup(www,four):
         maxlen = max([len(x) for x in v])
-        out.append(choice([u for u in v if len(u)==maxlen]))
+        out.append([u for u in v if len(u)==maxlen][0])
 
     return out
 
@@ -99,15 +99,22 @@ def main():
     assert hamming("ar","pare") == 2
     assert hamming("abcdefghi","d") == 8
     
-    if len(sys.argv) != 3:
+    if len(sys.argv) < 6:
         print 'USAGE:'
         print './select.py <input-file> <min-hamming-distance>'
+        print  '                         <ok> <ni> <blacklist>'
         sys.exit(1)
     
     fname = sys.argv[1]
     min_valid_h = int(sys.argv[2])
     
-    www = load_words(fname)
+    ok = set(load_words(sys.argv[3]))
+    ni = set(load_words(sys.argv[4]))
+    blacklist = set(load_words(sys.argv[5]))
+
+    www = list(ok) + \
+          list(set(load_words(fname)) - ok - blacklist) + \
+          list(ni)
 
     print 'fourfilter len:', len(fourfilter(www,4))
 
