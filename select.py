@@ -59,7 +59,7 @@ def remove_similars(www,min_valid_h):
     t =time()
     while i<len(www):
         if i%100==0 and i and time()-t>10:
-            print 'Word number:',i,'time [s]: %.2f'%(time()-t)
+            print 'Word number: %d/%d time [s]: %.2f'%(i,len(www),time()-t)
             t = time()
         to_del = []
         for j in range(i+1,len(www)):
