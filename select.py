@@ -140,9 +140,23 @@ def main():
         f.writelines([x+'\n' for x in sorted(four)])
 
     with open(fname+'-%s-%d.4.grouped' % parameters,'w') as f:
-        f.writelines([' '+' '.join(x)+'\n' for x in sorted(fourgroup(wwww,4))])
+        f.writelines([' '+' '.join(x)+'\n' for x in 
+                      sorted( 
+                          mark(
+                              mark(fourgroup(wwww,4),ok),
+                              ni,lambda x: '!'+x),
+                          lambda x,y: cmp(x[0].strip(' *!'),y[0].strip(' *!'))
+                      )])
 
     print 'Output:',fname+'-%s-%d'% parameters
+
+def mark(data,approved,
+         marker=lambda x: '*'+x):
+
+    out = []
+    for line in data:
+        out.append([marker(x) if x in approved else x for x in line])
+    return out
 
 if __name__=="__main__":
     main()
