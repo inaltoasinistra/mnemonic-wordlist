@@ -70,17 +70,20 @@ def remove_similars(www,min_valid_h):
             del www[d]
         i += 1
             
+def fourgroup(www,four):
 
-def fourfilter(www,four):
-    
     table = {}
     for w in www:
         value = table.get(w[:four],[])
         value.append(w)
         table[w[:four]] = value
 
+    return table.values()
+
+def fourfilter(www,four):
+    
     out = []
-    for v in table.itervalues():
+    for v in fourgroup(www,four):
         maxlen = max([len(x) for x in v])
         out.append(choice([u for u in v if len(u)==maxlen]))
 
@@ -114,7 +117,6 @@ def main():
 
     tbegin = time()
 
-    #wwww = slicing(www,piece_dim,min_valid_h)
     wwww = www[:]
     remove_similars(wwww,min_valid_h)
 
@@ -130,11 +132,8 @@ def main():
     with open(fname+'-%s-%d.4' % parameters,'w') as f:
         f.writelines([x+'\n' for x in sorted(four)])
 
-    '''
-    for four_as_par in [3,5]:
-        with open((fname+'-%s-%d.'+str(four_as_par)) % parameters,'w') as f:
-            f.writelines([x+'\n' for x in sorted(fourfilter(wwww,four_as_par))])
-    '''
+    with open(fname+'-%s-%d.4.grouped' % parameters,'w') as f:
+        f.writelines([' '+' '.join(x)+'\n' for x in sorted(fourgroup(wwww,4))])
 
     print 'Output:',fname+'-%s-%d'% parameters
 
