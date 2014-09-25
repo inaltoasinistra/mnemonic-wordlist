@@ -9,3 +9,5 @@ echo Ni $C1
 echo Si $C2
 
 echo $C0 + $C1 + $C2 | bc
+echo -n "SI "
+echo 979 + $C2 | bc
