@@ -22,15 +22,28 @@ def main():
             s += h
             if minh == None or h<minh:
                 minh = h
-        out.append((w,minh,1.*s/den))
+        avg = 1.*s / den
+        avgl = avg / len(w)
+        out.append((w,minh,avg,avgl))
+        # log
         if i%100 == 0:
             if time.time() - t > 10:
-                print '%d %.2fs %s %d %.2f' % (i,time.time()-t,w,minh,1.*s/den)
+                print '%d %.2fs %s %d %.2f %.2f' % (i,time.time()-t,w,minh,avg,avgl)
                 t = time.time()
 
-    with open('ok.minh','w') as f:
-        for w in sorted(out, key = lambda x: x[2], reverse = True):
-            f.write('%s %d %.2f\n' % (w[0],w[1],w[2]))
+    orders = [
+        ('ok.minh.len', lambda x: len(x[0]), False),
+        ('ok.minh.minh', lambda x: x[1], True),
+        ('ok.minh.avg', lambda x: x[2], True),
+        ('ok.minh.avgl', lambda x: x[3], True),
+    ]
+
+    for fname,key,reverse in orders:
+        with open(fname+'.words','w') as fw:
+            with open(fname,'w') as f:
+                for w in sorted(out, key = key, reverse = reverse):
+                    fw.write(w[0]+'\n')
+                    f.write('%s %d %.2f %.2f\n' % (w[0],w[1],w[2],w[3]))
 
 if __name__=="__main__":
     main()
