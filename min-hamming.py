@@ -33,9 +33,9 @@ def main():
 
     orders = [
         ('ok.minh.len', lambda x: len(x[0]), False),
-        ('ok.minh.minh', lambda x: x[1], True),
-        ('ok.minh.avg', lambda x: x[2], True),
-        ('ok.minh.avgl', lambda x: x[3], True),
+        #('ok.minh.minh', lambda x: x[1], True),
+        #('ok.minh.avg', lambda x: x[2], True),
+        #('ok.minh.avgl', lambda x: x[3], True),
     ]
 
     for fname,key,reverse in orders:
