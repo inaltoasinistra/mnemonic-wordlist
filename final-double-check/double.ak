@@ -18,7 +18,7 @@
  evadere
  evaporare
  eventuale
- evincere
+* evincere
  evolvere
  evviva
  extremis

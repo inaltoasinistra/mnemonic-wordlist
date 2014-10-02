@@ -1,7 +1,7 @@
  elisir
  ellitico
  eloquente
- elucubrazione
+* elucubrazione
  emancipare
  emblema
  embrione
@@ -10,13 +10,13 @@
  emicrania
  eminente
  emisfero
- emostatico
+* emostatico
  empirico
  enciclopedia
  endemico
  energumeno
  enfasi
- enfiteusi
+* enfiteusi
  enigma
  entrambi
  entusiasmo
@@ -34,7 +34,7 @@
  erbivoro
  ereditiera
  eresiarca
- eretismo
+* eretismo
  ergastolo
  erigere
  ermeticamente
@@ -42,7 +42,7 @@
  eruzione
  esagerare
  esame
- esasperare
+* esasperare
  esattore
  esaudire
  esclamare
