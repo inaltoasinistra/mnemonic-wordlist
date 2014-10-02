@@ -6,12 +6,12 @@
  finzione
  fiordaliso
  firmamento
- fisonomia
+* fisonomia
  fissazione
  fittizio
  fiume
  flaccido
- flagellanti
+* flagellanti
  flauto
  flemmatico
  flessibile
@@ -28,11 +28,11 @@
  folla
  fomenta
  fonetico
- fonografo
+* fonografo
  fontanella
  forchetta
  forestiero
- formalizzarsi
+* formalizzarsi
  forsennato
  forviare
  fosco
@@ -60,5 +60,5 @@
  funambolo
  funicolare
  fuori
- furfantina
+* furfantina
  furgone
