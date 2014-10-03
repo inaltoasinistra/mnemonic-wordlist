@@ -17,7 +17,7 @@
  verbale
  vergogna
  veridico
- vermicello
+* vermicello
  versatile
  vertenza
  vespa
@@ -35,7 +35,7 @@
  villano
  violoncello
  vipera
- virgulto
+* virgulto
  virus
  viscoso
  visibile
@@ -49,7 +49,7 @@
  volatizzare
  volenteroso
  volontario
- volpigno
+* volpigno
  volubile
  vortice
  vulcanico
@@ -57,8 +57,8 @@
  zaffiro
  zampillo
  zavorra
- zibaldone
- zingaro
+* zibaldone
+* zingaro
  zodiaco
  zootecnia
  zuppa
