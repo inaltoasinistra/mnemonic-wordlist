@@ -1,6 +1,6 @@
  tregua
  treppiede
- tressette
+* tressette
  triangolo
  triciclo
  trifoglio
@@ -14,7 +14,7 @@
  trito
  trivella
  trofeo
- troglodita
+* troglodita
  tromba
  trottola
  trovatore
