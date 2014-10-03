@@ -84,8 +84,7 @@ def fourfilter(www,four):
     
     out = []
     for v in fourgroup(www,four):
-        maxlen = max([len(x) for x in v])
-        out.append([u for u in v if len(u)==maxlen][0])
+        out.append(v[0])
 
     return out
 

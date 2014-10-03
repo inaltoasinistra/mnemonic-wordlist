@@ -1,11 +1,13 @@
 #!/usr/bin/env python2
 
 import time
+import sys
 from select import hamming, load_words
 
 def main():
 
-    www = load_words('ok')
+
+    www = load_words(sys.argv[1])
     den = len(www)-1
     #print www
     
@@ -32,10 +34,10 @@ def main():
                 t = time.time()
 
     orders = [
-        ('ok.minh.len', lambda x: len(x[0]), False),
-        #('ok.minh.minh', lambda x: x[1], True),
-        #('ok.minh.avg', lambda x: x[2], True),
-        #('ok.minh.avgl', lambda x: x[3], True),
+        (sys.argv[1]+'.minh.len', lambda x: len(x[0]), False),
+        (sys.argv[1]+'.minh.minh', lambda x: x[1], True),
+        (sys.argv[1]+'.minh.avg', lambda x: x[2], True),
+        (sys.argv[1]+'.minh.avgl', lambda x: x[3], True),
     ]
 
     for fname,key,reverse in orders:
