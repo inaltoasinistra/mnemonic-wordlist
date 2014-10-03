@@ -10,7 +10,7 @@
  singhiozzare
  sinonimo
  sintomo
- siroppo
+* siroppo
  sismografo
  sistema
  situare
@@ -32,11 +32,11 @@
  sobrio
  soccorrere
  socievole
- socratico
+* socratico
  sodalizio
  soddisfare
- soffriggere
- sogghignare
+* soffriggere
+* sogghignare
  sogliola
  solerte
  solidale
@@ -56,9 +56,9 @@
  sorso
  sortilegio
  sostentare
- sottintendere
+* sottintendere
  sovrano
  sovversivo
  spaccone
  spalancare
- spappolare
+* spappolare
